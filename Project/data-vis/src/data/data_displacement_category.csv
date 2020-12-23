@@ -1,0 +1,2133 @@
+country,year,hazard_category,hazard_type,new_displacements
+Afghanistan,2008,Geophysical,Earthquake,3250
+Afghanistan,2008,Weather related,Flood,180
+Afghanistan,2009,Geophysical,Earthquake,3250
+Afghanistan,2009,Weather related,Flood,25185
+Afghanistan,2010,Geophysical,Earthquake,1000
+Afghanistan,2010,Weather related,Flood,70000
+Afghanistan,2011,Weather related,Flood,3000
+Afghanistan,2012,Geophysical,Earthquake,5082
+Afghanistan,2012,Weather related,Extreme temperature,3007
+Afghanistan,2012,Weather related,Flood,20646
+Afghanistan,2012,Weather related,Wet mass movement,784
+Afghanistan,2013,Weather related,Flood,5899
+Afghanistan,2013,Weather related,Wet mass movement,391
+Afghanistan,2014,Weather related,Flood,5775
+Afghanistan,2014,Weather related,Wet mass movement,7106
+Afghanistan,2015,Geophysical,Earthquake,54686
+Afghanistan,2015,Weather related,Flood,11926
+Afghanistan,2015,Weather related,Wet mass movement,4336
+Afghanistan,2016,Geophysical,Dry mass movement,407
+Afghanistan,2016,Geophysical,Earthquake,1946
+Afghanistan,2016,Weather related,Flood,4816
+Afghanistan,2016,Weather related,Storm,225
+Afghanistan,2017,Weather related,Extreme temperature,1347
+Afghanistan,2017,Weather related,Flood,23652
+Afghanistan,2017,Weather related,Storm,22
+Afghanistan,2017,Weather related,Wet mass movement,1850
+Afghanistan,2018,Geophysical,Earthquake,8365
+Afghanistan,2018,Weather related,Drought,371318
+Afghanistan,2018,Weather related,Flood,52133
+Afghanistan,2018,Weather related,Storm,37
+Afghanistan,2018,Weather related,Wet mass movement,3580
+Afghanistan,2019,Weather related,Drought,4154
+Afghanistan,2019,Weather related,Extreme temperature,448
+Afghanistan,2019,Weather related,Flood,111403
+Afghanistan,2019,Weather related,Storm,15
+Afghanistan,2019,Weather related,Wet mass movement,478
+Albania,2009,Geophysical,Earthquake,150
+Albania,2013,Weather related,Flood,451
+Albania,2013,Weather related,Wet mass movement,3
+Albania,2014,Weather related,Flood,24
+Albania,2015,Weather related,Flood,4165
+Albania,2016,Weather related,Flood,2450
+Albania,2016,Weather related,Wet mass movement,578
+Albania,2017,Weather related,Flood,3508
+Albania,2018,Weather related,Flood,108
+Albania,2019,Geophysical,Earthquake,32745
+Algeria,2008,Weather related,Flood,25000
+Algeria,2009,Weather related,Flood,2500
+Algeria,2013,Weather related,Flood,342
+Algeria,2014,Geophysical,Earthquake,4492
+Algeria,2015,Weather related,Flood,19380
+Algeria,2016,Weather related,Flood,2030
+Algeria,2018,Weather related,Flood,19
+Algeria,2019,Weather related,Extreme temperature,1425
+Algeria,2019,Weather related,Flood,1780
+Angola,2009,Weather related,Flood,86065
+Angola,2010,Weather related,Flood,78875
+Angola,2011,Weather related,Flood,227490
+Angola,2012,Weather related,Flood,6361
+Angola,2013,Weather related,Flood,2450
+Angola,2015,Weather related,Flood,5595
+Angola,2016,Weather related,Flood,19103
+Angola,2017,Weather related,Flood,13354
+Angola,2017,Weather related,Storm,569
+Angola,2018,Weather related,Flood,8044
+Angola,2018,Weather related,Storm,3071
+Angola,2019,Weather related,Flood,6675
+Antigua and Barbuda,2008,Weather related,Storm,45
+Antigua and Barbuda,2017,Weather related,Storm,1423
+Argentina,2008,Weather related,Flood,635
+Argentina,2012,Weather related,Storm,2000
+Argentina,2013,Geophysical,Volcanic eruption,600
+Argentina,2013,Weather related,Flood,6300
+Argentina,2014,Weather related,Flood,25600
+Argentina,2014,Weather related,Storm,6328
+Argentina,2014,Weather related,Wet mass movement,200
+Argentina,2015,Geophysical,Earthquake,48
+Argentina,2015,Weather related,Flood,35807
+Argentina,2015,Weather related,Storm,400
+Argentina,2016,Weather related,Flood,11620
+Argentina,2016,Weather related,Wet mass movement,600
+Argentina,2017,Weather related,Flood,25195
+Argentina,2017,Weather related,Wet mass movement,1420
+Argentina,2017,Weather related,Wildfire,149
+Argentina,2018,Weather related,Flood,15732
+Argentina,2018,Weather related,Storm,22
+Argentina,2018,Weather related,Wildfire,50
+Argentina,2019,Weather related,Flood,10068
+Argentina,2019,Weather related,Storm,147
+Argentina,2019,Weather related,Wildfire,103
+Armenia,2008,Weather related,Flood,63
+Armenia,2012,Weather related,Storm,1200
+Armenia,2013,Geophysical,Volcanic eruption,200
+Armenia,2013,Weather related,Flood,650
+Armenia,2014,Weather related,Flood,256
+Armenia,2014,Weather related,Storm,640
+Armenia,2014,Weather related,Wet mass movement,200
+Armenia,2015,Geophysical,Earthquake,48
+Armenia,2015,Weather related,Flood,358
+Armenia,2015,Weather related,Storm,400
+Armenia,2016,Weather related,Flood,116
+Armenia,2016,Weather related,Wet mass movement,600
+Armenia,2017,Weather related,Flood,2510
+Armenia,2017,Weather related,Wet mass movement,1420
+Armenia,2017,Weather related,Wildfire,149
+Armenia,2018,Weather related,Flood,1573
+Armenia,2018,Weather related,Storm,22
+Armenia,2018,Weather related,Wildfire,50
+Armenia,2019,Weather related,Flood,100
+Armenia,2019,Weather related,Storm,147
+Armenia,2019,Weather related,Wildfire,103
+Australia,2008,Weather related,Storm,1000
+Australia,2009,Weather related,Wildfire,7500
+Australia,2010,Weather related,Flood,1000
+Australia,2011,Weather related,Storm,10000
+Australia,2012,Weather related,Flood,16000
+Australia,2013,Weather related,Storm,9062
+Australia,2013,Weather related,Wildfire,3672
+Australia,2014,Weather related,Storm,1000
+Australia,2014,Weather related,Wildfire,166
+Australia,2015,Weather related,Flood,1080
+Australia,2015,Weather related,Storm,1458
+Australia,2015,Weather related,Wet mass movement,3
+Australia,2015,Weather related,Wildfire,3172
+Australia,2016,Weather related,Flood,2534
+Australia,2016,Weather related,Wildfire,700
+Australia,2017,Weather related,Flood,41
+Australia,2017,Weather related,Storm,30154
+Australia,2017,Weather related,Wildfire,744
+Australia,2018,Weather related,Flood,534
+Australia,2018,Weather related,Storm,550
+Australia,2018,Weather related,Wildfire,1371
+Australia,2019,Weather related,Flood,1270
+Australia,2019,Weather related,Storm,2875
+Australia,2019,Weather related,Wildfire,20694
+Austria,2013,Weather related,Flood,1000
+Austria,2016,Weather related,Extreme temperature,25
+Austria,2016,Weather related,Flood,66
+Austria,2016,Weather related,Wet mass movement,163
+Austria,2019,Weather related,Wet mass movement,63
+Azerbaijan,2009,Weather related,Flood,200
+Azerbaijan,2010,Weather related,Flood,31665
+Azerbaijan,2012,Geophysical,Earthquake,36000
+Azerbaijan,2018,Weather related,Wet mass movement,390
+Azerbaijan,2019,Geophysical,Earthquake,136
+Bahamas,2008,Weather related,Flood,20000
+Bahamas,2008,Weather related,Storm,2710000
+Bahamas,2012,Weather related,Storm,351730
+Bahamas,2015,Weather related,Flood,2000
+Bahamas,2016,Weather related,Storm,1079214
+Bahamas,2017,Weather related,Storm,1738000
+Bahamas,2018,Weather related,Storm,520
+Bahamas,2019,Weather related,Storm,9916
+Bahrain,2009,Weather related,Flood,1000
+Bahrain,2016,Weather related,Flood,280
+Bahrain,2017,Weather related,Flood,100
+Bahrain,2018,Weather related,Flood,2046
+Bahrain,2019,Weather related,Flood,260
+Bangladesh,2008,Weather related,Flood,59690
+Bangladesh,2008,Weather related,Wet mass movement,1657
+Bangladesh,2009,Weather related,Flood,500000
+Bangladesh,2009,Weather related,Storm,842000
+Bangladesh,2010,Weather related,Flood,512000
+Bangladesh,2010,Weather related,Storm,45000
+Bangladesh,2010,Weather related,Wet mass movement,12000
+Bangladesh,2011,Weather related,Flood,400000
+Bangladesh,2012,Weather related,Flood,600000
+Bangladesh,2012,Weather related,Storm,50788
+Bangladesh,2013,Weather related,Flood,14280
+Bangladesh,2013,Weather related,Storm,1137149
+Bangladesh,2014,Weather related,Flood,542000
+Bangladesh,2014,Weather related,Storm,1000
+Bangladesh,2015,Geophysical,Earthquake,100
+Bangladesh,2015,Weather related,Flood,104798
+Bangladesh,2015,Weather related,Storm,426201
+Bangladesh,2016,Weather related,Flood,117450
+Bangladesh,2016,Weather related,Storm,496260
+Bangladesh,2017,Geophysical,Dry mass movement,6000
+Bangladesh,2017,Weather related,Flood,436191
+Bangladesh,2017,Weather related,Storm,489786
+Bangladesh,2017,Weather related,Wet mass movement,1500
+Bangladesh,2018,Weather related,Flood,31198
+Bangladesh,2018,Weather related,Storm,546
+Bangladesh,2018,Weather related,Wet mass movement,46045
+Bangladesh,2019,Weather related,Flood,307635
+Bangladesh,2019,Weather related,Storm,3778074
+Bangladesh,2019,Weather related,Wet mass movement,494
+Barbados,2016,Weather related,Storm,90
+Belarus,2010,Weather related,Flood,30000
+Belarus,2019,Weather related,Flood,18
+Belgium,2018,Weather related,Flood,50
+Belgium,2019,Weather related,Wet mass movement,10
+Belize,2008,Weather related,Flood,400
+Belize,2013,Weather related,Storm,126
+Belize,2015,Weather related,Flood,252
+Belize,2016,Weather related,Storm,3500
+Benin,2008,Weather related,Flood,150000
+Benin,2009,Weather related,Flood,40000
+Benin,2010,Weather related,Flood,275000
+Benin,2012,Weather related,Flood,10292
+Benin,2013,Weather related,Flood,10000
+Benin,2013,Weather related,Wildfire,5456
+Benin,2016,Weather related,Flood,960
+Benin,2017,Weather related,Flood,3528
+Benin,2018,Weather related,Flood,94
+Benin,2019,Weather related,Flood,5000
+Bhutan,2011,Geophysical,Earthquake,20000
+Bhutan,2015,Weather related,Storm,2851
+Bhutan,2016,Weather related,Flood,638
+Bhutan,2016,Weather related,Wildfire,56
+Bolivia (Plurinational State of),2009,Weather related,Flood,630
+Bolivia (Plurinational State of),2010,Weather related,Flood,100000
+Bolivia (Plurinational State of),2010,Weather related,Wildfire,300
+Bolivia (Plurinational State of),2011,Weather related,Flood,10000
+Bolivia (Plurinational State of),2011,Weather related,Wet mass movement,1000
+Bolivia (Plurinational State of),2012,Weather related,Flood,9000
+Bolivia (Plurinational State of),2013,Weather related,Extreme temperature,2000
+Bolivia (Plurinational State of),2013,Weather related,Flood,2709
+Bolivia (Plurinational State of),2014,Weather related,Flood,189997
+Bolivia (Plurinational State of),2014,Weather related,Wet mass movement,186
+Bolivia (Plurinational State of),2015,Weather related,Flood,7546
+Bolivia (Plurinational State of),2015,Weather related,Mass movement,3600
+Bolivia (Plurinational State of),2015,Weather related,Wet mass movement,186
+Bolivia (Plurinational State of),2016,Weather related,Flood,6767
+Bolivia (Plurinational State of),2016,Weather related,Wet mass movement,200
+Bolivia (Plurinational State of),2017,Weather related,Flood,3047
+Bolivia (Plurinational State of),2017,Weather related,Wet mass movement,16
+Bolivia (Plurinational State of),2018,Weather related,Flood,2168
+Bolivia (Plurinational State of),2018,Weather related,Storm,186
+Bolivia (Plurinational State of),2018,Weather related,Wet mass movement,34
+Bolivia (Plurinational State of),2019,Weather related,Flood,75255
+Bolivia (Plurinational State of),2019,Weather related,Wet mass movement,778
+Bolivia (Plurinational State of),2019,Weather related,Wildfire,716
+Bosnia and Herzegovina,2014,Weather related,Flood,90621
+Bosnia and Herzegovina,2015,Weather related,Flood,320
+Bosnia and Herzegovina,2019,Weather related,Flood,174
+Botswana,2009,Weather related,Flood,867
+Botswana,2013,Weather related,Flood,1241
+Botswana,2014,Weather related,Storm,2000
+Botswana,2015,Weather related,Storm,250
+Botswana,2017,Weather related,Storm,1950
+Botswana,2018,Weather related,Flood,1634
+Brazil,2008,Weather related,Flood,284435
+Brazil,2008,Weather related,Storm,25000
+Brazil,2009,Weather related,Flood,522500
+Brazil,2009,Weather related,Storm,450
+Brazil,2010,Weather related,Flood,230497
+Brazil,2011,Weather related,Flood,169500
+Brazil,2012,Weather related,Wet mass movement,35000
+Brazil,2013,Weather related,Flood,82255
+Brazil,2014,Weather related,Flood,150313
+Brazil,2015,Weather related,Flood,58472
+Brazil,2015,Weather related,Storm,1000
+Brazil,2016,Weather related,Flood,13562
+Brazil,2017,Weather related,Flood,68267
+Brazil,2018,Weather related,Drought,2358
+Brazil,2018,Weather related,Flood,61877
+Brazil,2018,Weather related,Storm,21042
+Brazil,2018,Weather related,Wet mass movement,639
+Brazil,2019,Geophysical,Dry mass movement,80
+Brazil,2019,Weather related,Drought,5618
+Brazil,2019,Weather related,Flood,211660
+Brazil,2019,Weather related,Storm,26979
+Brazil,2019,Weather related,Wet mass movement,10925
+Brazil,2019,Weather related,Wildfire,65
+Bulgaria,2012,Weather related,Flood,2100
+Bulgaria,2014,Weather related,Flood,2300
+Bulgaria,2015,Weather related,Flood,817
+Bulgaria,2016,Weather related,Flood,24
+Bulgaria,2017,Weather related,Flood,22
+Bulgaria,2018,Weather related,Flood,50
+Burkina Faso,2008,Weather related,Flood,28000
+Burkina Faso,2009,Weather related,Flood,150000
+Burkina Faso,2010,Weather related,Flood,20000
+Burkina Faso,2013,Weather related,Flood,1763
+Burkina Faso,2015,Weather related,Flood,3699
+Burkina Faso,2016,Weather related,Flood,17868
+Burkina Faso,2017,Weather related,Flood,850
+Burkina Faso,2018,Weather related,Flood,4727
+Burkina Faso,2018,Weather related,Storm,385
+Burundi,2008,Weather related,Flood,2770
+Burundi,2010,Weather related,Storm,1500
+Burundi,2014,Weather related,Flood,12500
+Burundi,2015,Weather related,Flood,3077
+Burundi,2016,Weather related,Flood,6556
+Burundi,2017,Weather related,Drought,4955
+Burundi,2017,Weather related,Flood,737
+Burundi,2017,Weather related,Wet mass movement,78
+Burundi,2017,Weather related,Wildfire,308
+Burundi,2018,Weather related,Flood,30646
+Burundi,2018,Weather related,Storm,2587
+Burundi,2018,Weather related,Wet mass movement,603
+Burundi,2019,Weather related,Flood,15078
+Burundi,2019,Weather related,Storm,3640
+Burundi,2019,Weather related,Wet mass movement,2792
+Cabo Verde,2014,Geophysical,Volcanic eruption,2500
+Cabo Verde,2015,Weather related,Storm,190
+Cabo Verde,2016,Geophysical,Earthquake,300
+Cambodia,2009,Weather related,Storm,66000
+Cambodia,2010,Weather related,Flood,31505
+Cambodia,2011,Weather related,Flood,214000
+Cambodia,2013,Weather related,Flood,144044
+Cambodia,2013,Weather related,Storm,452
+Cambodia,2014,Weather related,Flood,119187
+Cambodia,2014,Weather related,Storm,27632
+Cambodia,2014,Weather related,Wildfire,2631
+Cambodia,2015,Weather related,Flood,3614
+Cambodia,2015,Weather related,Storm,5245
+Cambodia,2016,Weather related,Flood,2878
+Cambodia,2016,Weather related,Storm,5203
+Cambodia,2017,Weather related,Flood,9267
+Cambodia,2017,Weather related,Storm,1522
+Cambodia,2017,Weather related,Wet mass movement,13
+Cambodia,2018,Weather related,Flood,1817
+Cambodia,2018,Weather related,Storm,2717
+Cambodia,2019,Weather related,Storm,1205
+Cameroon,2008,Weather related,Flood,1000
+Cameroon,2010,Weather related,Flood,3000
+Cameroon,2012,Weather related,Flood,30000
+Cameroon,2013,Weather related,Flood,10000
+Cameroon,2014,Weather related,Flood,3500
+Cameroon,2015,Weather related,Flood,11275
+Cameroon,2019,Weather related,Flood,23280
+Cameroon,2019,Weather related,Wet mass movement,439
+Canada,2008,Weather related,Flood,2030
+Canada,2013,Weather related,Flood,120000
+Canada,2013,Weather related,Wildfire,240
+Canada,2014,Weather related,Flood,3000
+Canada,2014,Weather related,Storm,300
+Canada,2014,Weather related,Wildfire,2500
+Canada,2015,Weather related,Wildfire,13300
+Canada,2016,Weather related,Flood,688
+Canada,2016,Weather related,Storm,200
+Canada,2016,Weather related,Wildfire,91841
+Canada,2017,Geophysical,Dry mass movement,145
+Canada,2017,Weather related,Flood,7566
+Canada,2017,Weather related,Wildfire,75030
+Canada,2018,Geophysical,Dry mass movement,233
+Canada,2018,Weather related,Extreme temperature,125
+Canada,2018,Weather related,Flood,11638
+Canada,2018,Weather related,Storm,2159
+Canada,2018,Weather related,Wet mass movement,28
+Canada,2018,Weather related,Wildfire,4611
+Canada,2019,Geophysical,Dry mass movement,35
+Canada,2019,Weather related,Extreme temperature,6000
+Canada,2019,Weather related,Flood,14895
+Canada,2019,Weather related,Storm,1108
+Canada,2019,Weather related,Wildfire,18494
+Central African Rep.,2008,Weather related,Flood,14000
+Central African Rep.,2009,Weather related,Flood,11000
+Central African Rep.,2009,Weather related,Storm,3835
+Central African Rep.,2012,Weather related,Flood,13700
+Central African Rep.,2012,Weather related,Storm,3870
+Central African Rep.,2013,Weather related,Storm,12590
+Central African Rep.,2014,Weather related,Flood,496
+Central African Rep.,2015,Weather related,Storm,1109
+Central African Rep.,2016,Weather related,Flood,3174
+Central African Rep.,2016,Weather related,Storm,2050
+Central African Rep.,2016,Weather related,Wildfire,2240
+Central African Rep.,2017,Weather related,Flood,1104
+Central African Rep.,2018,Weather related,Flood,5955
+Central African Rep.,2018,Weather related,Storm,3324
+Central African Rep.,2019,Weather related,Flood,101700
+Central African Rep.,2019,Weather related,Storm,80
+Central African Rep.,2019,Weather related,Wildfire,58
+Chad,2008,Weather related,Flood,10000
+Chad,2009,Weather related,Flood,5795
+Chad,2010,Weather related,Flood,70000
+Chad,2012,Weather related,Flood,500000
+Chad,2013,Weather related,Flood,88199
+Chad,2014,Weather related,Flood,9888
+Chad,2016,Weather related,Storm,5650
+Chad,2018,Weather related,Flood,2000
+Chad,2019,Weather related,Flood,30386
+Chile,2008,Geophysical,Volcanic eruption,8000
+Chile,2008,Weather related,Flood,35000
+Chile,2009,Weather related,Flood,697
+Chile,2010,Geophysical,Earthquake,2000000
+Chile,2011,Geophysical,Volcanic eruption,4000
+Chile,2012,Geophysical,Earthquake,7000
+Chile,2012,Weather related,Flood,300
+Chile,2013,Geophysical,Volcanic eruption,2440
+Chile,2013,Weather related,Wildfire,1200
+Chile,2014,Geophysical,Earthquake,972457
+Chile,2014,Weather related,Wildfire,345
+Chile,2015,Geophysical,Earthquake,1000000
+Chile,2015,Geophysical,Volcanic activity,9985
+Chile,2015,Weather related,Flood,1095
+Chile,2015,Weather related,Wet mass movement,29739
+Chile,2015,Weather related,Wildfire,6000
+Chile,2016,Geophysical,Earthquake,15374
+Chile,2016,Weather related,Flood,420
+Chile,2016,Weather related,Wildfire,624
+Chile,2017,Weather related,Flood,56
+Chile,2017,Weather related,Wet mass movement,730
+Chile,2017,Weather related,Wildfire,3
+Chile,2018,Weather related,Extreme temperature,2431
+Chile,2018,Weather related,Flood,70
+Chile,2018,Weather related,Wildfire,17
+Chile,2019,Geophysical,Earthquake,36
+Chile,2019,Weather related,Flood,1330
+Chile,2019,Weather related,Storm,105
+Chile,2019,Weather related,Wildfire,1534
+China,2008,Geophysical,Earthquake,15666855
+China,2008,Weather related,Extreme temperature,827000
+China,2008,Weather related,Flood,1764600
+China,2008,Weather related,Storm,401194
+China,2009,Geophysical,Earthquake,461000
+China,2009,Weather related,Flood,1232300
+China,2009,Weather related,Storm,2327207
+China,2009,Weather related,Wet mass movement,10000
+China,2010,Geophysical,Earthquake,130500
+China,2010,Weather related,Flood,15470000
+China,2010,Weather related,Storm,319435
+China,2010,Weather related,Wet mass movement,125
+China,2011,Geophysical,Earthquake,224550
+China,2011,Weather related,Extreme temperature,87800
+China,2011,Weather related,Flood,3514000
+China,2011,Weather related,Storm,663195
+China,2012,Geophysical,Earthquake,255000
+China,2012,Weather related,Storm,5475800
+China,2013,Geophysical,Dry mass movement,500
+China,2013,Geophysical,Earthquake,1009800
+China,2013,Weather related,Flood,1967100
+China,2013,Weather related,Storm,2946543
+China,2013,Weather related,Wet mass movement,200
+China,2014,Geophysical,Earthquake,466727
+China,2014,Weather related,Flood,1203564
+China,2014,Weather related,Storm,1787000
+China,2014,Weather related,Wet mass movement,231
+China,2015,Geophysical,Earthquake,29536
+China,2015,Weather related,Flood,927400
+China,2015,Weather related,Storm,2645351
+China,2015,Weather related,Wet mass movement,81
+China,2016,Geophysical,Dry mass movement,25
+China,2016,Geophysical,Earthquake,43990
+China,2016,Weather related,Extreme temperature,78400
+China,2016,Weather related,Flood,3788984
+China,2016,Weather related,Storm,3522706
+China,2016,Weather related,Wet mass movement,100
+China,2017,Geophysical,Dry mass movement,1661
+China,2017,Geophysical,Earthquake,76089
+China,2017,Geophysical,Mass movement,12
+China,2017,Weather related,Flood,1967700
+China,2017,Weather related,Storm,804557
+China,2018,Geophysical,Earthquake,44738
+China,2018,Weather related,Extreme temperature,12912
+China,2018,Weather related,Flood,141000
+China,2018,Weather related,Storm,502182
+China,2018,Weather related,Wet mass movement,2311
+China,2019,Geophysical,Earthquake,96218
+China,2019,Weather related,Flood,1627988
+China,2019,Weather related,Storm,2272396
+China,2019,Weather related,Wet mass movement,1478
+China,2019,Weather related,Wildfire,9000
+Colombia,2008,Geophysical,Volcanic eruption,33000
+Colombia,2008,Weather related,Flood,30100
+Colombia,2009,Geophysical,Volcanic eruption,8500
+Colombia,2009,Weather related,Wet mass movement,593
+Colombia,2010,Weather related,Flood,3000000
+Colombia,2011,Weather related,Flood,149000
+Colombia,2012,Geophysical,Volcanic eruption,7200
+Colombia,2012,Weather related,Flood,64000
+Colombia,2013,Geophysical,Earthquake,2179
+Colombia,2013,Weather related,Flood,3871
+Colombia,2013,Weather related,Storm,2230
+Colombia,2013,Weather related,Wet mass movement,3023
+Colombia,2013,Weather related,Wildfire,107
+Colombia,2014,Geophysical,Earthquake,3
+Colombia,2014,Geophysical,Volcanic eruption,12750
+Colombia,2014,Weather related,Flood,4557
+Colombia,2014,Weather related,Storm,2466
+Colombia,2014,Weather related,Wet mass movement,334
+Colombia,2014,Weather related,Wildfire,27
+Colombia,2015,Geophysical,Earthquake,115
+Colombia,2015,Weather related,Flood,2295
+Colombia,2015,Weather related,Mass movement,757
+Colombia,2015,Weather related,Storm,1045
+Colombia,2015,Weather related,Wildfire,42
+Colombia,2016,Weather related,Flood,30629
+Colombia,2016,Weather related,Storm,210
+Colombia,2017,Weather related,Flood,19516
+Colombia,2017,Weather related,Storm,111
+Colombia,2017,Weather related,Wet mass movement,3534
+Colombia,2018,Geophysical,Dry mass movement,26382
+Colombia,2018,Geophysical,Earthquake,370
+Colombia,2018,Weather related,Flood,38654
+Colombia,2018,Weather related,Storm,11
+Colombia,2018,Weather related,Wet mass movement,919
+Colombia,2019,Geophysical,Dry mass movement,1170
+Colombia,2019,Weather related,Flood,21421
+Colombia,2019,Weather related,Wet mass movement,149
+Comoros,2012,Weather related,Flood,11000
+Comoros,2014,Geophysical,Earthquake,3030
+Comoros,2014,Weather related,Flood,8956
+Comoros,2017,Weather related,Flood,94
+Congo,2009,Weather related,Storm,800
+Congo,2012,Weather related,Flood,1606
+Congo,2013,Weather related,Flood,1427
+Congo,2013,Weather related,Storm,360
+Congo,2017,Weather related,Flood,8
+Costa Rica,2008,Weather related,Flood,12159
+Costa Rica,2009,Geophysical,Earthquake,2358
+Costa Rica,2011,Weather related,Flood,2120
+Costa Rica,2012,Weather related,Flood,2000
+Costa Rica,2013,Geophysical,Volcanic eruption,20
+Costa Rica,2013,Weather related,Flood,45
+Costa Rica,2015,Weather related,Flood,1057
+Costa Rica,2016,Geophysical,Dry mass movement,80
+Costa Rica,2016,Geophysical,Earthquake,21
+Costa Rica,2016,Geophysical,Volcanic eruption,4
+Costa Rica,2016,Weather related,Flood,153
+Costa Rica,2016,Weather related,Storm,5500
+Costa Rica,2016,Weather related,Wildfire,42
+Costa Rica,2017,Weather related,Flood,150
+Costa Rica,2017,Weather related,Wet mass movement,191
+Costa Rica,2018,Geophysical,Dry mass movement,129
+Costa Rica,2018,Weather related,Flood,1442
+Costa Rica,2018,Weather related,Storm,111
+Costa Rica,2019,Weather related,Flood,214
+Cote d'Ivoire,2009,Weather related,Wet mass movement,10000
+Cote d'Ivoire,2013,Weather related,Flood,78
+Cote d'Ivoire,2014,Weather related,Flood,4500
+Cote d'Ivoire,2018,Weather related,Flood,3171
+Cote d'Ivoire,2019,Weather related,Flood,622
+Cote d'Ivoire,2019,Weather related,Storm,96
+Croatia,2014,Weather related,Flood,17631
+Croatia,2015,Weather related,Flood,960
+Croatia,2015,Weather related,Wildfire,50
+Croatia,2017,Weather related,Wildfire,233
+Croatia,2018,Weather related,Flood,76
+Croatia,2018,Weather related,Wet mass movement,23
+Croatia,2018,Weather related,Wildfire,40
+Cuba,2008,Weather related,Flood,20000
+Cuba,2008,Weather related,Storm,2710000
+Cuba,2012,Weather related,Storm,351730
+Cuba,2015,Weather related,Flood,2000
+Cuba,2016,Weather related,Storm,1079214
+Cuba,2017,Weather related,Storm,1738000
+Cuba,2018,Weather related,Storm,520
+Cuba,2019,Weather related,Storm,9916
+Cyprus,2016,Weather related,Wildfire,40
+Cyprus,2018,Weather related,Wildfire,8
+Czechia,2013,Weather related,Flood,26438
+Czechia,2018,Weather related,Flood,12
+Dem. Rep. of the Congo,2008,Weather related,Flood,10100
+Dem. Rep. of the Congo,2009,Weather related,Flood,91686
+Dem. Rep. of the Congo,2010,Weather related,Flood,53786
+Dem. Rep. of the Congo,2011,Weather related,Flood,19045
+Dem. Rep. of the Congo,2012,Weather related,Flood,97626
+Dem. Rep. of the Congo,2013,Weather related,Flood,180282
+Dem. Rep. of the Congo,2014,Weather related,Flood,1068
+Dem. Rep. of the Congo,2014,Weather related,Wet mass movement,300
+Dem. Rep. of the Congo,2015,Weather related,Flood,105084
+Dem. Rep. of the Congo,2016,Weather related,Flood,40318
+Dem. Rep. of the Congo,2017,Weather related,Flood,35424
+Dem. Rep. of the Congo,2018,Weather related,Flood,334318
+Dem. Rep. of the Congo,2018,Weather related,Storm,1950
+Dem. Rep. of the Congo,2019,Geophysical,Earthquake,62
+Dem. Rep. of the Congo,2019,Weather related,Flood,72507
+Dem. Rep. of the Congo,2019,Weather related,Storm,593
+Dem. Rep. of the Congo,2019,Weather related,Wildfire,780
+Denmark,2014,Weather related,Flood,200
+Denmark,2014,Weather related,Wildfire,480
+Denmark,2015,Weather related,Flood,220
+Denmark,2016,Weather related,Storm,259
+Denmark,2017,Weather related,Flood,20
+Denmark,2017,Weather related,Wet mass movement,200
+Denmark,2019,Weather related,Storm,144
+Denmark,2019,Weather related,Wet mass movement,150
+Denmark,2019,Weather related,Wildfire,326
+Djibouti,2019,Weather related,Flood,10000
+Dominica,2011,Weather related,Storm,96
+Dominica,2013,Weather related,Storm,18
+Dominica,2015,Weather related,Storm,709
+Dominica,2017,Weather related,Storm,34798
+Dominica,2018,Weather related,Flood,6
+Dominica,2018,Weather related,Storm,344
+Dominican Rep.,2008,Weather related,Storm,8925
+Dominican Rep.,2011,Weather related,Flood,4000
+Dominican Rep.,2011,Weather related,Storm,12900
+Dominican Rep.,2012,Weather related,Flood,22300
+Dominican Rep.,2012,Weather related,Storm,21083
+Dominican Rep.,2013,Weather related,Storm,14183
+Dominican Rep.,2014,Weather related,Flood,350
+Dominican Rep.,2014,Weather related,Storm,11091
+Dominican Rep.,2015,Weather related,Flood,20410
+Dominican Rep.,2015,Weather related,Storm,7350
+Dominican Rep.,2016,Weather related,Flood,10800
+Dominican Rep.,2016,Weather related,Storm,41524
+Dominican Rep.,2017,Weather related,Flood,18435
+Dominican Rep.,2017,Weather related,Storm,47069
+Dominican Rep.,2018,Weather related,Flood,15444
+Dominican Rep.,2018,Weather related,Storm,11740
+Dominican Rep.,2019,Weather related,Storm,4890
+Ecuador,2008,Weather related,Flood,13871
+Ecuador,2010,Weather related,Flood,500
+Ecuador,2012,Weather related,Flood,4796
+Ecuador,2013,Geophysical,Volcanic eruption,200
+Ecuador,2013,Weather related,Flood,7340
+Ecuador,2014,Geophysical,Earthquake,18
+Ecuador,2014,Weather related,Wildfire,555
+Ecuador,2015,Geophysical,Volcanic activity,400
+Ecuador,2015,Weather related,Flood,1527
+Ecuador,2016,Geophysical,Dry mass movement,81
+Ecuador,2016,Geophysical,Earthquake,271790
+Ecuador,2016,Geophysical,Volcanic eruption,500
+Ecuador,2016,Weather related,Flood,16998
+Ecuador,2017,Weather related,Flood,2960
+Ecuador,2018,Geophysical,Earthquake,2823
+Ecuador,2018,Geophysical,Volcanic eruption,250
+Ecuador,2018,Weather related,Flood,569
+Ecuador,2018,Weather related,Wet mass movement,145
+Ecuador,2018,Weather related,Wildfire,278
+Ecuador,2019,Weather related,Flood,1020
+Ecuador,2019,Weather related,Wildfire,60
+Egypt,2013,Weather related,Flood,3000
+Egypt,2019,Weather related,Flood,4625
+El Salvador,2008,Weather related,Flood,95
+El Salvador,2009,Weather related,Storm,15000
+El Salvador,2010,Weather related,Storm,15508
+El Salvador,2011,Weather related,Flood,59854
+El Salvador,2013,Geophysical,Volcanic eruption,2300
+El Salvador,2014,Geophysical,Earthquake,22
+El Salvador,2015,Weather related,Flood,1982
+El Salvador,2016,Weather related,Flood,471
+El Salvador,2016,Weather related,Wet mass movement,4
+El Salvador,2018,Geophysical,Earthquake,75
+El Salvador,2018,Weather related,Flood,8
+El Salvador,2019,Weather related,Flood,16
+El Salvador,2019,Weather related,Storm,11
+El Salvador,2019,Weather related,Wet mass movement,1857
+Equatorial Guinea,2008,Weather related,Flood,14292
+Equatorial Guinea,2009,Weather related,Flood,52000
+Equatorial Guinea,2011,Weather related,Flood,49000
+Equatorial Guinea,2013,Weather related,Flood,7646
+Equatorial Guinea,2015,Weather related,Flood,9255
+Equatorial Guinea,2016,Weather related,Flood,7918
+Equatorial Guinea,2017,Weather related,Flood,4974
+Equatorial Guinea,2017,Weather related,Storm,9817
+Equatorial Guinea,2018,Weather related,Flood,56500
+Equatorial Guinea,2018,Weather related,Storm,4737
+Equatorial Guinea,2019,Weather related,Flood,13432
+Equatorial Guinea,2019,Weather related,Storm,2525
+Estonia,2008,Weather related,Storm,20
+Estonia,2013,Weather related,Flood,30
+Estonia,2018,Weather related,Wildfire,51
+Eswatini,2018,Weather related,Storm,111
+Ethiopia,2008,Weather related,Flood,72810
+Ethiopia,2010,Weather related,Flood,10000
+Ethiopia,2012,Weather related,Flood,20118
+Ethiopia,2013,Weather related,Flood,60286
+Ethiopia,2013,Weather related,Storm,1200
+Ethiopia,2014,Weather related,Flood,46877
+Ethiopia,2014,Weather related,Storm,2350
+Ethiopia,2014,Weather related,Wildfire,185
+Ethiopia,2015,Geophysical,Volcanic activity,3900
+Ethiopia,2015,Weather related,Flood,89596
+Ethiopia,2015,Weather related,Wildfire,10515
+Ethiopia,2016,Weather related,Flood,347156
+Ethiopia,2017,Weather related,Drought,380830
+Ethiopia,2017,Weather related,Flood,16191
+Ethiopia,2017,Weather related,Wet mass movement,804
+Ethiopia,2018,Weather related,Drought,120320
+Ethiopia,2018,Weather related,Flood,170760
+Ethiopia,2018,Weather related,Wet mass movement,654
+Ethiopia,2019,Weather related,Drought,130957
+Ethiopia,2019,Weather related,Flood,373410
+Fiji,2009,Weather related,Flood,9400
+Fiji,2009,Weather related,Storm,3845
+Fiji,2010,Weather related,Storm,18000
+Fiji,2012,Weather related,Flood,18646
+Fiji,2012,Weather related,Storm,8416
+Fiji,2014,Weather related,Storm,800
+Fiji,2016,Weather related,Storm,76072
+Fiji,2017,Geophysical,Earthquake,30
+Fiji,2017,Weather related,Flood,189
+Fiji,2017,Weather related,Storm,155
+Fiji,2018,Weather related,Flood,10000
+Fiji,2018,Weather related,Storm,2313
+Fiji,2019,Weather related,Storm,4909
+Fiji,2019,Weather related,Wet mass movement,90
+Finland,2008,Weather related,Storm,20
+Finland,2013,Weather related,Flood,30
+Finland,2018,Weather related,Wildfire,51
+France,2008,Weather related,Storm,870
+France,2010,Weather related,Storm,4500
+France,2013,Weather related,Flood,4195
+France,2013,Weather related,Wet mass movement,6
+France,2014,Weather related,Flood,3770
+France,2014,Weather related,Storm,300
+France,2014,Weather related,Wildfire,2
+France,2015,Weather related,Flood,120
+France,2016,Geophysical,Dry mass movement,191
+France,2017,Geophysical,Dry mass movement,202
+France,2017,Weather related,Storm,3956
+France,2017,Weather related,Wildfire,17300
+France,2018,Geophysical,Earthquake,15
+France,2018,Weather related,Flood,5178
+France,2018,Weather related,Storm,426
+France,2018,Weather related,Wet mass movement,44
+France,2018,Weather related,Wildfire,682
+France,2019,Geophysical,Dry mass movement,52
+France,2019,Geophysical,Earthquake,2
+France,2019,Weather related,Flood,1679
+France,2019,Weather related,Storm,176
+France,2019,Weather related,Wet mass movement,7
+France,2019,Weather related,Wildfire,548
+Gabon,2009,Weather related,Storm,800
+Gabon,2012,Weather related,Flood,1606
+Gabon,2013,Weather related,Flood,1427
+Gabon,2013,Weather related,Storm,360
+Gabon,2017,Weather related,Flood,8
+Gambia,2014,Weather related,Flood,104341
+Gambia,2014,Weather related,Storm,8000
+Gambia,2015,Weather related,Flood,15000
+Gambia,2017,Weather related,Flood,72725
+Gambia,2018,Weather related,Flood,6422
+Gambia,2018,Weather related,Storm,200
+Gambia,2019,Weather related,Drought,5000
+Gambia,2019,Weather related,Flood,288359
+Gambia,2019,Weather related,Wildfire,966
+Georgia,2013,Weather related,Flood,150
+Georgia,2013,Weather related,Storm,1125
+Georgia,2014,Weather related,Flood,120
+Georgia,2015,Weather related,Flood,1100
+Georgia,2015,Weather related,Storm,134
+Georgia,2018,Weather related,Wet mass movement,24
+Germany,2013,Weather related,Flood,52549
+Germany,2016,Weather related,Flood,2000
+Germany,2017,Weather related,Flood,18
+Germany,2018,Weather related,Flood,9
+Germany,2018,Weather related,Wildfire,500
+Germany,2019,Weather related,Storm,30
+Germany,2019,Weather related,Wildfire,650
+Ghana,2008,Weather related,Flood,14292
+Ghana,2009,Weather related,Flood,52000
+Ghana,2011,Weather related,Flood,49000
+Ghana,2013,Weather related,Flood,7646
+Ghana,2015,Weather related,Flood,9255
+Ghana,2016,Weather related,Flood,7918
+Ghana,2017,Weather related,Flood,4974
+Ghana,2017,Weather related,Storm,9817
+Ghana,2018,Weather related,Flood,56500
+Ghana,2018,Weather related,Storm,4737
+Ghana,2019,Weather related,Flood,13432
+Ghana,2019,Weather related,Storm,2525
+Greece,2009,Weather related,Wildfire,325
+Greece,2013,Weather related,Wildfire,60
+Greece,2014,Geophysical,Earthquake,8213
+Greece,2015,Weather related,Wildfire,270
+Greece,2016,Weather related,Flood,1
+Greece,2016,Weather related,Wildfire,2932
+Greece,2017,Geophysical,Earthquake,800
+Greece,2018,Weather related,Flood,61
+Greece,2018,Weather related,Storm,1300
+Greece,2018,Weather related,Wildfire,627
+Greece,2019,Weather related,Wildfire,2800
+Grenada,2017,Weather related,Storm,146
+Grenada,2018,Weather related,Flood,27
+Guatemala,2008,Weather related,Extreme temperature,2241
+Guatemala,2008,Weather related,Flood,10764
+Guatemala,2008,Weather related,Storm,5000
+Guatemala,2009,Geophysical,Dry mass movement,991
+Guatemala,2010,Weather related,Storm,112000
+Guatemala,2010,Weather related,Wet mass movement,50640
+Guatemala,2011,Weather related,Flood,28792
+Guatemala,2012,Geophysical,Earthquake,30679
+Guatemala,2012,Geophysical,Volcanic eruption,33000
+Guatemala,2013,Geophysical,Earthquake,80
+Guatemala,2014,Geophysical,Earthquake,9940
+Guatemala,2015,Weather related,Flood,1744
+Guatemala,2015,Weather related,Wet mass movement,500
+Guatemala,2016,Geophysical,Dry mass movement,95
+Guatemala,2016,Weather related,Flood,901
+Guatemala,2016,Weather related,Storm,706
+Guatemala,2017,Geophysical,Earthquake,320
+Guatemala,2017,Weather related,Extreme temperature,3165
+Guatemala,2017,Weather related,Flood,41326
+Guatemala,2018,Geophysical,Volcanic eruption,4185
+Guatemala,2018,Weather related,Extreme temperature,4086
+Guatemala,2018,Weather related,Flood,3696
+Guatemala,2019,Weather related,Extreme temperature,15499
+Guatemala,2019,Weather related,Flood,5037
+Guinea,2011,Weather related,Flood,4500
+Guinea,2013,Weather related,Flood,300
+Guinea,2015,Weather related,Flood,33840
+Guinea,2015,Weather related,Mass movement,269
+Guinea,2016,Weather related,Flood,63
+Guinea,2016,Weather related,Wildfire,423
+Guinea,2017,Geophysical,Dry mass movement,18
+Guinea,2017,Weather related,Flood,695
+Guinea,2018,Weather related,Flood,1445
+Guinea,2018,Weather related,Storm,2416
+Guinea,2019,Weather related,Storm,18
+Guinea-Bissau,2008,Weather related,Flood,750
+Guinea-Bissau,2010,Weather related,Flood,2000
+Guinea-Bissau,2018,Weather related,Storm,3698
+Guinea-Bissau,2019,Weather related,Storm,414
+Guyana,2017,Weather related,Flood,180
+Guyana,2017,Weather related,Storm,15
+Guyana,2018,Weather related,Flood,123
+Guyana,2018,Weather related,Storm,45
+Haiti,2008,Weather related,Storm,138761
+Haiti,2009,Weather related,Flood,9910
+Haiti,2010,Geophysical,Earthquake,1500000
+Haiti,2010,Weather related,Storm,72710
+Haiti,2011,Weather related,Storm,500
+Haiti,2012,Weather related,Flood,9100
+Haiti,2012,Weather related,Storm,76800
+Haiti,2013,Weather related,Storm,228
+Haiti,2014,Weather related,Flood,6500
+Haiti,2015,Weather related,Flood,1488
+Haiti,2016,Weather related,Flood,852
+Haiti,2016,Weather related,Storm,175795
+Haiti,2017,Weather related,Flood,342
+Haiti,2017,Weather related,Storm,12539
+Haiti,2018,Geophysical,Earthquake,8618
+Haiti,2018,Weather related,Flood,25
+Haiti,2019,Weather related,Flood,120
+Haiti,2019,Weather related,Storm,1012
+Honduras,2008,Weather related,Flood,70250
+Honduras,2009,Geophysical,Earthquake,2250
+Honduras,2010,Weather related,Storm,7998
+Honduras,2011,Weather related,Flood,12061
+Honduras,2014,Weather related,Flood,2500
+Honduras,2015,Weather related,Flood,1306
+Honduras,2016,Geophysical,Earthquake,155
+Honduras,2016,Weather related,Flood,724
+Honduras,2016,Weather related,Storm,11
+Honduras,2018,Geophysical,Dry mass movement,387
+Honduras,2018,Weather related,Flood,447
+Honduras,2019,Weather related,Flood,300
+Honduras,2019,Weather related,Wildfire,86
+Hong Kong,2008,Geophysical,Earthquake,15666855
+Hong Kong,2008,Weather related,Extreme temperature,827000
+Hong Kong,2008,Weather related,Flood,1764600
+Hong Kong,2008,Weather related,Storm,401194
+Hong Kong,2009,Geophysical,Earthquake,461000
+Hong Kong,2009,Weather related,Flood,1232300
+Hong Kong,2009,Weather related,Storm,2327207
+Hong Kong,2009,Weather related,Wet mass movement,10000
+Hong Kong,2010,Geophysical,Earthquake,130500
+Hong Kong,2010,Weather related,Flood,15470000
+Hong Kong,2010,Weather related,Storm,319435
+Hong Kong,2010,Weather related,Wet mass movement,125
+Hong Kong,2011,Geophysical,Earthquake,224550
+Hong Kong,2011,Weather related,Extreme temperature,87800
+Hong Kong,2011,Weather related,Flood,3514000
+Hong Kong,2011,Weather related,Storm,663195
+Hong Kong,2012,Geophysical,Earthquake,255000
+Hong Kong,2012,Weather related,Storm,5475800
+Hong Kong,2013,Geophysical,Dry mass movement,500
+Hong Kong,2013,Geophysical,Earthquake,1009800
+Hong Kong,2013,Weather related,Flood,1967100
+Hong Kong,2013,Weather related,Storm,2946543
+Hong Kong,2013,Weather related,Wet mass movement,200
+Hong Kong,2014,Geophysical,Earthquake,466727
+Hong Kong,2014,Weather related,Flood,1203564
+Hong Kong,2014,Weather related,Storm,1787000
+Hong Kong,2014,Weather related,Wet mass movement,231
+Hong Kong,2015,Geophysical,Earthquake,29536
+Hong Kong,2015,Weather related,Flood,927400
+Hong Kong,2015,Weather related,Storm,2645351
+Hong Kong,2015,Weather related,Wet mass movement,81
+Hong Kong,2016,Geophysical,Dry mass movement,25
+Hong Kong,2016,Geophysical,Earthquake,43990
+Hong Kong,2016,Weather related,Extreme temperature,78400
+Hong Kong,2016,Weather related,Flood,3788984
+Hong Kong,2016,Weather related,Storm,3522706
+Hong Kong,2016,Weather related,Wet mass movement,100
+Hong Kong,2017,Geophysical,Dry mass movement,1661
+Hong Kong,2017,Geophysical,Earthquake,76089
+Hong Kong,2017,Geophysical,Mass movement,12
+Hong Kong,2017,Weather related,Flood,1967700
+Hong Kong,2017,Weather related,Storm,804557
+Hong Kong,2018,Geophysical,Earthquake,44738
+Hong Kong,2018,Weather related,Extreme temperature,12912
+Hong Kong,2018,Weather related,Flood,141000
+Hong Kong,2018,Weather related,Storm,502182
+Hong Kong,2018,Weather related,Wet mass movement,2311
+Hong Kong,2019,Geophysical,Earthquake,96218
+Hong Kong,2019,Weather related,Flood,1627988
+Hong Kong,2019,Weather related,Storm,2272396
+Hong Kong,2019,Weather related,Wet mass movement,1478
+Hong Kong,2019,Weather related,Wildfire,9000
+Hungary,2013,Weather related,Flood,1254
+Hungary,2014,Weather related,Extreme temperature,6
+Hungary,2014,Weather related,Flood,287
+Hungary,2017,Weather related,Storm,96
+Iceland,2017,Weather related,Flood,50
+India,2008,Weather related,Flood,6660665
+India,2008,Weather related,Wet mass movement,1500
+India,2009,Weather related,Flood,3000000
+India,2009,Weather related,Storm,2304000
+India,2010,Weather related,Flood,873000
+India,2010,Weather related,Storm,538285
+India,2011,Geophysical,Earthquake,75000
+India,2011,Weather related,Flood,1178320
+India,2011,Weather related,Storm,250000
+India,2012,Weather related,Flood,8900000
+India,2012,Weather related,Storm,210000
+India,2013,Geophysical,Earthquake,56400
+India,2013,Weather related,Flood,1042271
+India,2013,Weather related,Storm,1046000
+India,2014,Weather related,Flood,2758347
+India,2014,Weather related,Storm,669271
+India,2015,Geophysical,Earthquake,25110
+India,2015,Geophysical,Mass movement,56
+India,2015,Weather related,Flood,3510771
+India,2015,Weather related,Storm,117700
+India,2015,Weather related,Wet Mass movement,1000
+India,2016,Geophysical,Earthquake,10000
+India,2016,Weather related,Flood,2373550
+India,2016,Weather related,Storm,16757
+India,2017,Weather related,Flood,1345759
+India,2017,Weather related,Storm,235
+India,2018,Weather related,Flood,1990258
+India,2018,Weather related,Storm,684926
+India,2018,Weather related,Wet mass movement,141
+India,2018,Weather related,Wildfire,89
+India,2019,Weather related,Drought,63404
+India,2019,Weather related,Flood,2646587
+India,2019,Weather related,Storm,2009083
+India,2019,Weather related,Wet mass movement,169
+Indonesia,2008,Geophysical,Earthquake,16635
+Indonesia,2008,Geophysical,Volcanic eruption,5000
+Indonesia,2008,Weather related,Flood,183465
+Indonesia,2008,Weather related,Wet mass movement,16000
+Indonesia,2009,Geophysical,Earthquake,853990
+Indonesia,2010,Geophysical,Earthquake,48600
+Indonesia,2010,Geophysical,Volcanic eruption,360557
+Indonesia,2010,Weather related,Flood,230
+Indonesia,2011,Geophysical,Earthquake,95
+Indonesia,2011,Geophysical,Volcanic eruption,5347
+Indonesia,2011,Weather related,Flood,2000
+Indonesia,2012,Geophysical,Earthquake,192
+Indonesia,2012,Geophysical,Volcanic eruption,192
+Indonesia,2012,Weather related,Flood,101197
+Indonesia,2012,Weather related,Storm,2122
+Indonesia,2012,Weather related,Wet mass movement,128
+Indonesia,2013,Geophysical,Earthquake,66103
+Indonesia,2013,Geophysical,Volcanic eruption,45098
+Indonesia,2013,Weather related,Flood,212746
+Indonesia,2013,Weather related,Storm,83360
+Indonesia,2013,Weather related,Wet mass movement,115
+Indonesia,2014,Geophysical,Dry mass movement,1149
+Indonesia,2014,Geophysical,Earthquake,200
+Indonesia,2014,Geophysical,Volcanic eruption,177493
+Indonesia,2014,Weather related,Flood,665028
+Indonesia,2014,Weather related,Storm,2638
+Indonesia,2014,Weather related,Wet mass movement,8167
+Indonesia,2014,Weather related,Wildfire,425
+Indonesia,2015,Geophysical,Earthquake,17438
+Indonesia,2015,Geophysical,Volcanic activity,17092
+Indonesia,2015,Weather related,Flood,164914
+Indonesia,2015,Weather related,Storm,2114
+Indonesia,2015,Weather related,Wet mass movement,2355
+Indonesia,2016,Geophysical,Dry mass movement,3338
+Indonesia,2016,Geophysical,Earthquake,92657
+Indonesia,2016,Geophysical,Volcanic eruption,16039
+Indonesia,2016,Weather related,Flood,1123709
+Indonesia,2016,Weather related,Storm,3552
+Indonesia,2016,Weather related,Wet mass movement,175
+Indonesia,2016,Weather related,Wildfire,2004
+Indonesia,2017,Geophysical,Dry mass movement,2333
+Indonesia,2017,Geophysical,Earthquake,6799
+Indonesia,2017,Geophysical,Volcanic eruption,157323
+Indonesia,2017,Weather related,Flood,138778
+Indonesia,2017,Weather related,Storm,13975
+Indonesia,2017,Weather related,Wet mass movement,24
+Indonesia,2018,Geophysical,Dry mass movement,52
+Indonesia,2018,Geophysical,Earthquake,464479
+Indonesia,2018,Geophysical,Volcanic eruption,13159
+Indonesia,2018,Weather related,Flood,49214
+Indonesia,2018,Weather related,Storm,5901
+Indonesia,2018,Weather related,Wet mass movement,6662
+Indonesia,2018,Weather related,Wildfire,143
+Indonesia,2019,Geophysical,Dry mass movement,7
+Indonesia,2019,Geophysical,Earthquake,293231
+Indonesia,2019,Geophysical,Volcanic eruption,283
+Indonesia,2019,Weather related,Flood,123781
+Indonesia,2019,Weather related,Storm,22469
+Indonesia,2019,Weather related,Wet mass movement,1947
+Indonesia,2019,Weather related,Wildfire,158
+Iran,2008,Geophysical,Earthquake,3250
+Iran,2008,Weather related,Flood,180
+Iran,2009,Geophysical,Earthquake,3250
+Iran,2009,Weather related,Flood,25185
+Iran,2010,Geophysical,Earthquake,1000
+Iran,2010,Weather related,Flood,70000
+Iran,2011,Weather related,Flood,3000
+Iran,2012,Geophysical,Earthquake,5082
+Iran,2012,Weather related,Extreme temperature,3007
+Iran,2012,Weather related,Flood,20646
+Iran,2012,Weather related,Wet mass movement,784
+Iran,2013,Weather related,Flood,5899
+Iran,2013,Weather related,Wet mass movement,391
+Iran,2014,Weather related,Flood,5775
+Iran,2014,Weather related,Wet mass movement,7106
+Iran,2015,Geophysical,Earthquake,54686
+Iran,2015,Weather related,Flood,11926
+Iran,2015,Weather related,Wet mass movement,4336
+Iran,2016,Geophysical,Dry mass movement,407
+Iran,2016,Geophysical,Earthquake,1946
+Iran,2016,Weather related,Flood,4816
+Iran,2016,Weather related,Storm,225
+Iran,2017,Weather related,Extreme temperature,1347
+Iran,2017,Weather related,Flood,23652
+Iran,2017,Weather related,Storm,22
+Iran,2017,Weather related,Wet mass movement,1850
+Iran,2018,Geophysical,Earthquake,8365
+Iran,2018,Weather related,Drought,371318
+Iran,2018,Weather related,Flood,52133
+Iran,2018,Weather related,Storm,37
+Iran,2018,Weather related,Wet mass movement,3580
+Iran,2019,Weather related,Drought,4154
+Iran,2019,Weather related,Extreme temperature,448
+Iran,2019,Weather related,Flood,111403
+Iran,2019,Weather related,Storm,15
+Iran,2019,Weather related,Wet mass movement,478
+Iraq,2008,Weather related,Flood,600
+Iraq,2011,Weather related,Flood,2000
+Iraq,2015,Weather related,Flood,22500
+Iraq,2017,Geophysical,Earthquake,3933
+Iraq,2018,Geophysical,Earthquake,3025
+Iraq,2018,Weather related,Drought,20443
+Iraq,2018,Weather related,Flood,520
+Iraq,2019,Weather related,Flood,37252
+Ireland,2015,Weather related,Storm,1623
+Ireland,2017,Weather related,Flood,5
+Israel,2013,Weather related,Wildfire,200
+Israel,2014,Weather related,Wildfire,700
+Israel,2016,Weather related,Wildfire,210
+Israel,2018,Weather related,Flood,80
+Israel,2019,Weather related,Wildfire,500
+Italy,2009,Geophysical,Earthquake,70000
+Italy,2009,Weather related,Flood,5000
+Italy,2012,Geophysical,Earthquake,16050
+Italy,2012,Weather related,Flood,800
+Italy,2013,Geophysical,Earthquake,1000
+Italy,2013,Weather related,Storm,2737
+Italy,2014,Weather related,Flood,1600
+Italy,2015,Weather related,Flood,1321
+Italy,2016,Geophysical,Earthquake,30000
+Italy,2016,Weather related,Flood,750
+Italy,2016,Weather related,Wildfire,200
+Italy,2017,Weather related,Flood,1053
+Italy,2017,Weather related,Wildfire,1000
+Italy,2018,Geophysical,Dry mass movement,37
+Italy,2018,Geophysical,Earthquake,600
+Italy,2018,Weather related,Flood,1604
+Italy,2018,Weather related,Wet mass movement,223
+Italy,2018,Weather related,Wildfire,815
+Italy,2019,Geophysical,Earthquake,616
+Italy,2019,Geophysical,Volcanic eruption,70
+Italy,2019,Weather related,Flood,2622
+Italy,2019,Weather related,Wet mass movement,29
+Italy,2019,Weather related,Wildfire,54
+Jamaica,2008,Weather related,Storm,1520
+Jamaica,2012,Weather related,Storm,2000
+Jamaica,2016,Weather related,Flood,24
+Jamaica,2016,Weather related,Storm,3500
+Jamaica,2017,Weather related,Flood,29
+Jamaica,2018,Weather related,Flood,7
+Japan,2008,Weather related,Flood,800
+Japan,2010,Weather related,Flood,85000
+Japan,2011,Geophysical,Earthquake,492000
+Japan,2011,Weather related,Wet mass movement,400000
+Japan,2012,Geophysical,Dry mass movement,80
+Japan,2012,Weather related,Flood,308000
+Japan,2013,Geophysical,Earthquake,69
+Japan,2013,Weather related,Flood,489
+Japan,2013,Weather related,Storm,638429
+Japan,2014,Geophysical,Earthquake,129
+Japan,2014,Weather related,Storm,707341
+Japan,2015,Geophysical,Volcanic activity,332
+Japan,2015,Weather related,Storm,481047
+Japan,2015,Weather related,Wet mass movement,4713
+Japan,2016,Geophysical,Earthquake,199329
+Japan,2016,Geophysical,Volcanic eruption,9
+Japan,2016,Weather related,Extreme temperature,4
+Japan,2016,Weather related,Flood,88230
+Japan,2016,Weather related,Storm,576011
+Japan,2017,Weather related,Flood,615
+Japan,2017,Weather related,Storm,19815
+Japan,2018,Geophysical,Earthquake,14676
+Japan,2018,Geophysical,Volcanic eruption,22
+Japan,2018,Weather related,Extreme temperature,5
+Japan,2018,Weather related,Storm,52447
+Japan,2018,Weather related,Wet mass movement,2
+Japan,2019,Geophysical,Earthquake,844
+Japan,2019,Weather related,Storm,253692
+Jordan,2013,Weather related,Flood,424
+Jordan,2017,Weather related,Storm,155
+Jordan,2018,Weather related,Flood,2000
+Jordan,2019,Weather related,Flood,46
+Kazakhstan,2010,Weather related,Flood,5000
+Kazakhstan,2011,Weather related,Flood,9000
+Kazakhstan,2012,Weather related,Extreme temperature,500
+Kazakhstan,2012,Weather related,Flood,4613
+Kazakhstan,2013,Weather related,Flood,328
+Kazakhstan,2015,Weather related,Flood,19036
+Kazakhstan,2016,Weather related,Flood,1029
+Kazakhstan,2018,Weather related,Flood,400
+Kenya,2008,Weather related,Flood,10100
+Kenya,2009,Weather related,Flood,91686
+Kenya,2010,Weather related,Flood,53786
+Kenya,2011,Weather related,Flood,19045
+Kenya,2012,Weather related,Flood,97626
+Kenya,2013,Weather related,Flood,180282
+Kenya,2014,Weather related,Flood,1068
+Kenya,2014,Weather related,Wet mass movement,300
+Kenya,2015,Weather related,Flood,105084
+Kenya,2016,Weather related,Flood,40318
+Kenya,2017,Weather related,Flood,35424
+Kenya,2018,Weather related,Flood,334318
+Kenya,2018,Weather related,Storm,1950
+Kenya,2019,Geophysical,Earthquake,62
+Kenya,2019,Weather related,Flood,72507
+Kenya,2019,Weather related,Storm,593
+Kenya,2019,Weather related,Wildfire,780
+Kuwait,2009,Weather related,Flood,1000
+Kuwait,2016,Weather related,Flood,280
+Kuwait,2017,Weather related,Flood,100
+Kuwait,2018,Weather related,Flood,2046
+Kuwait,2019,Weather related,Flood,260
+Kyrgyzstan,2008,Geophysical,Earthquake,1055
+Kyrgyzstan,2015,Geophysical,Earthquake,5780
+Kyrgyzstan,2015,Weather related,Flood,126
+Kyrgyzstan,2016,Geophysical,Dry mass movement,39
+Kyrgyzstan,2017,Geophysical,Earthquake,3096
+Kyrgyzstan,2017,Weather related,Wet mass movement,224
+Kyrgyzstan,2018,Weather related,Flood,10
+Kyrgyzstan,2018,Weather related,Wet mass movement,4680
+Lao People's Dem. Rep.,2009,Weather related,Storm,37500
+Lao People's Dem. Rep.,2011,Weather related,Flood,50000
+Lao People's Dem. Rep.,2013,Weather related,Flood,450
+Lao People's Dem. Rep.,2013,Weather related,Storm,9458
+Lao People's Dem. Rep.,2015,Weather related,Flood,11902
+Lao People's Dem. Rep.,2015,Weather related,Wet mass movement,49
+Lao People's Dem. Rep.,2016,Weather related,Storm,659
+Lao People's Dem. Rep.,2018,Weather related,Flood,800
+Lao People's Dem. Rep.,2018,Weather related,Wet mass movement,221
+Lao People's Dem. Rep.,2019,Geophysical,Earthquake,124
+Latvia,2018,Weather related,Wildfire,24
+Lebanon,2014,Weather related,Flood,1346
+Lebanon,2015,Weather related,Storm,106
+Lebanon,2019,Weather related,Storm,4093
+Lebanon,2019,Weather related,Wildfire,200
+Lesotho,2010,Weather related,Flood,5000
+Lesotho,2011,Weather related,Flood,3360
+Lesotho,2014,Weather related,Storm,2600
+Liberia,2008,Weather related,Flood,1000
+Liberia,2014,Weather related,Flood,650
+Liberia,2016,Weather related,Flood,10000
+Liberia,2017,Weather related,Flood,766
+Liberia,2017,Weather related,Storm,200
+Liberia,2018,Weather related,Flood,15101
+Liberia,2019,Weather related,Storm,269
+Liberia,2019,Weather related,Wet mass movement,330
+Libya,2013,Weather related,Flood,3000
+Libya,2019,Weather related,Flood,4625
+Lithuania,2010,Weather related,Flood,30000
+Lithuania,2019,Weather related,Flood,18
+Luxembourg,2019,Weather related,Storm,192
+Macao SAR,2008,Weather related,Flood,2500
+Macao SAR,2010,Weather related,Flood,5840
+Macao SAR,2011,Weather related,Flood,18340
+Macao SAR,2012,Weather related,Flood,9000
+Macao SAR,2013,Weather related,Flood,23500
+Macao SAR,2015,Weather related,Flood,400
+Macao SAR,2016,Weather related,Flood,8025
+Macao SAR,2017,Weather related,Flood,6848
+Macao SAR,2018,Weather related,Flood,19397
+Macao SAR,2019,Weather related,Flood,2035
+Madagascar,2008,Weather related,Storm,194338
+Madagascar,2009,Weather related,Storm,8102
+Madagascar,2010,Weather related,Storm,37891
+Madagascar,2011,Weather related,Storm,25845
+Madagascar,2012,Weather related,Storm,267911
+Madagascar,2013,Weather related,Storm,20000
+Madagascar,2014,Weather related,Flood,600
+Madagascar,2014,Weather related,Storm,2236
+Madagascar,2015,Weather related,Flood,38498
+Madagascar,2015,Weather related,Storm,48903
+Madagascar,2016,Weather related,Storm,51039
+Madagascar,2017,Weather related,Drought,1190
+Madagascar,2017,Weather related,Storm,246842
+Madagascar,2018,Geophysical,Dry mass movement,176
+Madagascar,2018,Weather related,Drought,686
+Madagascar,2018,Weather related,Storm,74266
+Madagascar,2018,Weather related,Wet mass movement,132
+Madagascar,2019,Geophysical,Dry mass movement,39
+Madagascar,2019,Weather related,Storm,2000
+Madagascar,2019,Weather related,Wildfire,548
+Malawi,2009,Geophysical,Earthquake,20550
+Malawi,2011,Weather related,Flood,24790
+Malawi,2012,Weather related,Flood,1182
+Malawi,2012,Weather related,Storm,5000
+Malawi,2013,Weather related,Flood,33000
+Malawi,2014,Weather related,Flood,602
+Malawi,2015,Weather related,Flood,336053
+Malawi,2015,Weather related,Storm,6970
+Malawi,2016,Weather related,Flood,9520
+Malawi,2017,Weather related,Flood,70164
+Malawi,2017,Weather related,Storm,13932
+Malawi,2018,Weather related,Flood,11769
+Malawi,2018,Weather related,Storm,4271
+Malawi,2019,Geophysical,Dry mass movement,8
+Malawi,2019,Weather related,Flood,6707
+Malaysia,2008,Geophysical,Dry mass movement,4000
+Malaysia,2010,Weather related,Flood,65000
+Malaysia,2011,Weather related,Flood,24000
+Malaysia,2012,Weather related,Flood,22000
+Malaysia,2014,Weather related,Flood,255711
+Malaysia,2015,Geophysical,Mass movement,60
+Malaysia,2015,Weather related,Flood,16126
+Malaysia,2016,Weather related,Flood,18475
+Malaysia,2017,Geophysical,Dry mass movement,68
+Malaysia,2017,Weather related,Flood,43255
+Malaysia,2017,Weather related,Storm,5
+Malaysia,2018,Weather related,Flood,36091
+Malaysia,2018,Weather related,Wet mass movement,15
+Malaysia,2019,Weather related,Flood,58196
+Malaysia,2019,Weather related,Storm,1945
+Malaysia,2019,Weather related,Wet mass movement,316
+Maldives,2017,Weather related,Storm,76
+Maldives,2018,Weather related,Flood,20
+Maldives,2019,Weather related,Flood,296
+Mali,2008,Weather related,Flood,2500
+Mali,2010,Weather related,Flood,5840
+Mali,2011,Weather related,Flood,18340
+Mali,2012,Weather related,Flood,9000
+Mali,2013,Weather related,Flood,23500
+Mali,2015,Weather related,Flood,400
+Mali,2016,Weather related,Flood,8025
+Mali,2017,Weather related,Flood,6848
+Mali,2018,Weather related,Flood,19397
+Mali,2019,Weather related,Flood,2035
+Mauritania,2010,Weather related,Flood,5000
+Mauritania,2013,Weather related,Flood,4579
+Mauritania,2018,Weather related,Flood,445
+Mauritania,2019,Weather related,Flood,6630
+Mauritius,2015,Weather related,Storm,1400
+Mauritius,2016,Weather related,Flood,300
+Mauritius,2018,Weather related,Storm,3600
+Mauritius,2019,Weather related,Flood,82
+Mauritius,2019,Weather related,Storm,885
+Mauritius,2019,Weather related,Wildfire,49
+Mexico,2008,Weather related,Storm,13100
+Mexico,2009,Weather related,Flood,200000
+Mexico,2009,Weather related,Storm,175000
+Mexico,2010,Weather related,Flood,810000
+Mexico,2010,Weather related,Storm,90300
+Mexico,2011,Weather related,Flood,261000
+Mexico,2011,Weather related,Storm,285795
+Mexico,2012,Geophysical,Earthquake,4000
+Mexico,2012,Weather related,Storm,2500
+Mexico,2013,Weather related,Flood,40000
+Mexico,2013,Weather related,Storm,118000
+Mexico,2013,Weather related,Wet mass movement,330
+Mexico,2014,Weather related,Flood,2300
+Mexico,2014,Weather related,Storm,16000
+Mexico,2015,Geophysical,Volcanic activity,70
+Mexico,2015,Weather related,Flood,464
+Mexico,2015,Weather related,Storm,90000
+Mexico,2016,Geophysical,Volcanic eruption,400
+Mexico,2016,Weather related,Flood,3028
+Mexico,2016,Weather related,Storm,8516
+Mexico,2016,Weather related,Wet mass movement,9
+Mexico,2017,Geophysical,Dry mass movement,400
+Mexico,2017,Geophysical,Earthquake,192318
+Mexico,2017,Weather related,Flood,334
+Mexico,2017,Weather related,Storm,1942
+Mexico,2018,Geophysical,Earthquake,57
+Mexico,2018,Weather related,Flood,4039
+Mexico,2018,Weather related,Storm,14916
+Mexico,2019,Geophysical,Earthquake,3796
+Mexico,2019,Weather related,Flood,922
+Mexico,2019,Weather related,Storm,3725
+Mexico,2019,Weather related,Wildfire,1645
+Mongolia,2009,Weather related,Extreme temperature,21560
+Mongolia,2015,Weather related,Severe winter condition,807
+Mongolia,2018,Weather related,Drought,522
+Mongolia,2018,Weather related,Extreme temperature,224
+Mongolia,2018,Weather related,Flood,3331
+Mongolia,2019,Weather related,Flood,13
+Montenegro,2010,Weather related,Flood,1350
+Montenegro,2012,Weather related,Flood,800
+Montenegro,2016,Weather related,Flood,400
+Montenegro,2018,Geophysical,Earthquake,6
+Morocco,2008,Weather related,Flood,5000
+Morocco,2010,Weather related,Flood,15000
+Morocco,2012,Geophysical,Earthquake,581
+Morocco,2014,Weather related,Flood,1690
+Morocco,2019,Weather related,Flood,202
+Mozambique,2008,Weather related,Flood,85000
+Mozambique,2008,Weather related,Storm,55000
+Mozambique,2008,Weather related,Wildfire,3000
+Mozambique,2009,Weather related,Flood,828
+Mozambique,2009,Weather related,Storm,6500
+Mozambique,2010,Weather related,Flood,130000
+Mozambique,2011,Weather related,Flood,22000
+Mozambique,2012,Weather related,Storm,10000
+Mozambique,2013,Weather related,Flood,185897
+Mozambique,2014,Weather related,Flood,8195
+Mozambique,2014,Weather related,Storm,12900
+Mozambique,2015,Weather related,Flood,61102
+Mozambique,2017,Weather related,Flood,22010
+Mozambique,2017,Weather related,Storm,144962
+Mozambique,2018,Geophysical,Earthquake,464
+Mozambique,2018,Weather related,Flood,1419
+Mozambique,2018,Weather related,Wet mass movement,443
+Myanmar,2008,Weather related,Storm,2250000
+Myanmar,2009,Weather related,Wet mass movement,2521
+Myanmar,2010,Weather related,Storm,101923
+Myanmar,2010,Weather related,Wet mass movement,4070
+Myanmar,2011,Geophysical,Earthquake,3152
+Myanmar,2011,Weather related,Flood,10000
+Myanmar,2012,Geophysical,Earthquake,25840
+Myanmar,2012,Weather related,Flood,48000
+Myanmar,2013,Weather related,Flood,50000
+Myanmar,2013,Weather related,Storm,151000
+Myanmar,2014,Weather related,Flood,73919
+Myanmar,2014,Weather related,Storm,5619
+Myanmar,2014,Weather related,Wet mass movement,1494
+Myanmar,2015,Weather related,Flood,1618261
+Myanmar,2016,Weather related,Flood,508701
+Myanmar,2016,Weather related,Storm,537
+Myanmar,2017,Weather related,Flood,330000
+Myanmar,2017,Weather related,Storm,21436
+Myanmar,2018,Weather related,Flood,271074
+Myanmar,2018,Weather related,Storm,24559
+Myanmar,2018,Weather related,Wet mass movement,2224
+Myanmar,2019,Weather related,Flood,231202
+Myanmar,2019,Weather related,Storm,38764
+Myanmar,2019,Weather related,Wet mass movement,46
+Namibia,2009,Weather related,Flood,54581
+Namibia,2010,Weather related,Flood,11000
+Namibia,2011,Weather related,Flood,60000
+Namibia,2012,Weather related,Flood,400
+Namibia,2013,Weather related,Flood,17915
+Namibia,2014,Weather related,Flood,163
+Namibia,2015,Weather related,Flood,8
+Namibia,2017,Weather related,Flood,3331
+Namibia,2017,Weather related,Storm,30
+Namibia,2018,Weather related,Flood,13
+Namibia,2019,Weather related,Flood,2
+Nepal,2008,Weather related,Flood,250000
+Nepal,2009,Weather related,Flood,18300
+Nepal,2011,Geophysical,Earthquake,46476
+Nepal,2012,Weather related,Flood,600
+Nepal,2013,Weather related,Flood,12474
+Nepal,2014,Weather related,Wet mass movement,40000
+Nepal,2015,Geophysical,Earthquake,2622733
+Nepal,2015,Weather related,Wet mass movement,95
+Nepal,2016,Weather related,Flood,30315
+Nepal,2016,Weather related,Wildfire,1023
+Nepal,2017,Weather related,Flood,382463
+Nepal,2017,Weather related,Wet mass movement,120
+Nepal,2017,Weather related,Wildfire,22
+Nepal,2018,Geophysical,Dry mass movement,75
+Nepal,2018,Weather related,Flood,2521
+Nepal,2018,Weather related,Storm,1267
+Nepal,2018,Weather related,Wet mass movement,8338
+Nepal,2019,Weather related,Flood,99149
+Nepal,2019,Weather related,Storm,21616
+Nepal,2019,Weather related,Wet mass movement,104
+Netherlands,2009,Weather related,Wildfire,325
+Netherlands,2013,Weather related,Wildfire,60
+Netherlands,2014,Geophysical,Earthquake,8213
+Netherlands,2015,Weather related,Wildfire,270
+Netherlands,2016,Weather related,Flood,1
+Netherlands,2016,Weather related,Wildfire,2932
+Netherlands,2017,Geophysical,Earthquake,800
+Netherlands,2018,Weather related,Flood,61
+Netherlands,2018,Weather related,Storm,1300
+Netherlands,2018,Weather related,Wildfire,627
+Netherlands,2019,Weather related,Wildfire,2800
+New Zealand,2010,Geophysical,Earthquake,250
+New Zealand,2011,Geophysical,Earthquake,2300
+New Zealand,2012,Weather related,Storm,450
+New Zealand,2013,Weather related,Flood,160
+New Zealand,2013,Weather related,Storm,50
+New Zealand,2015,Weather related,Flood,400
+New Zealand,2015,Weather related,Storm,40
+New Zealand,2016,Geophysical,Earthquake,1500
+New Zealand,2016,Weather related,Flood,289
+New Zealand,2017,Weather related,Flood,5170
+New Zealand,2017,Weather related,Wildfire,1080
+New Zealand,2018,Weather related,Flood,282
+New Zealand,2018,Weather related,Storm,43
+New Zealand,2018,Weather related,Wet mass movement,11
+New Zealand,2018,Weather related,Wildfire,383
+New Zealand,2019,Geophysical,Volcanic eruption,3
+New Zealand,2019,Weather related,Flood,135
+New Zealand,2019,Weather related,Storm,8
+New Zealand,2019,Weather related,Wildfire,1152
+Nicaragua,2008,Weather related,Flood,17500
+Nicaragua,2008,Weather related,Storm,1390
+Nicaragua,2010,Weather related,Flood,61000
+Nicaragua,2011,Weather related,Flood,10278
+Nicaragua,2013,Weather related,Flood,161
+Nicaragua,2014,Geophysical,Earthquake,2085
+Nicaragua,2014,Weather related,Flood,834
+Nicaragua,2015,Geophysical,Volcanic activity,48
+Nicaragua,2015,Weather related,Flood,1023
+Nicaragua,2016,Geophysical,Earthquake,1400
+Nicaragua,2016,Weather related,Flood,4869
+Nicaragua,2016,Weather related,Storm,11678
+Nicaragua,2017,Weather related,Flood,2590
+Nicaragua,2018,Weather related,Flood,144
+Nicaragua,2019,Weather related,Flood,509
+Niger,2008,Weather related,Flood,4300
+Niger,2009,Weather related,Flood,5560
+Niger,2010,Weather related,Flood,205355
+Niger,2011,Weather related,Flood,28175
+Niger,2012,Weather related,Flood,540000
+Niger,2013,Weather related,Flood,200961
+Niger,2014,Weather related,Flood,47484
+Niger,2015,Weather related,Flood,38321
+Niger,2016,Weather related,Flood,46000
+Niger,2017,Weather related,Flood,188500
+Niger,2018,Weather related,Flood,40387
+Niger,2019,Weather related,Flood,120935
+Nigeria,2009,Weather related,Flood,140000
+Nigeria,2010,Weather related,Flood,560000
+Nigeria,2011,Weather related,Flood,6300
+Nigeria,2012,Weather related,Flood,3894063
+Nigeria,2013,Weather related,Flood,117420
+Nigeria,2014,Weather related,Flood,3002
+Nigeria,2015,Weather related,Flood,100420
+Nigeria,2016,Weather related,Flood,66743
+Nigeria,2017,Weather related,Flood,120000
+Nigeria,2018,Weather related,Flood,604896
+Nigeria,2018,Weather related,Storm,8412
+Nigeria,2019,Weather related,Flood,131526
+Nigeria,2019,Weather related,Storm,1992
+North Macedonia,2008,Weather related,Flood,10520
+North Macedonia,2014,Weather related,Flood,2235
+North Macedonia,2015,Weather related,Flood,157
+North Macedonia,2016,Weather related,Flood,1480
+North Macedonia,2019,Weather related,Flood,200
+Norway,2014,Weather related,Flood,200
+Norway,2014,Weather related,Wildfire,480
+Norway,2015,Weather related,Flood,220
+Norway,2016,Weather related,Storm,259
+Norway,2017,Weather related,Flood,20
+Norway,2017,Weather related,Wet mass movement,200
+Norway,2019,Weather related,Storm,144
+Norway,2019,Weather related,Wet mass movement,150
+Norway,2019,Weather related,Wildfire,326
+Oman,2013,Weather related,Flood,350
+Oman,2017,Weather related,Flood,320
+Oman,2018,Weather related,Storm,10000
+Oman,2019,Weather related,Storm,750
+Pakistan,2008,Geophysical,Earthquake,7000
+Pakistan,2008,Weather related,Flood,82200
+Pakistan,2009,Weather related,Flood,84290
+Pakistan,2010,Weather related,Flood,11000000
+Pakistan,2010,Weather related,Storm,60000
+Pakistan,2011,Weather related,Flood,300000
+Pakistan,2012,Weather related,Flood,1856570
+Pakistan,2013,Geophysical,Earthquake,283619
+Pakistan,2013,Weather related,Flood,123817
+Pakistan,2014,Geophysical,Earthquake,11925
+Pakistan,2014,Weather related,Flood,758571
+Pakistan,2014,Weather related,Storm,81
+Pakistan,2015,Geophysical,Earthquake,665812
+Pakistan,2015,Geophysical,Wet mass movement,4049
+Pakistan,2015,Weather related,Flood,331240
+Pakistan,2015,Weather related,Storm,564
+Pakistan,2016,Weather related,Flood,12673
+Pakistan,2017,Weather related,Flood,1628
+Pakistan,2017,Weather related,Wet mass movement,122
+Pakistan,2018,Geophysical,Earthquake,11
+Pakistan,2018,Geophysical,Mass movement,1000
+Pakistan,2018,Weather related,Flood,917
+Pakistan,2018,Weather related,Storm,134
+Pakistan,2018,Weather related,Wet mass movement,16
+Pakistan,2019,Geophysical,Earthquake,54866
+Pakistan,2019,Geophysical,Mass movement,150
+Pakistan,2019,Weather related,Drought,266
+Pakistan,2019,Weather related,Flood,33340
+Pakistan,2019,Weather related,Storm,45
+Pakistan,2019,Weather related,Wet mass movement,10259
+Panama,2012,Weather related,Flood,3400
+Panama,2013,Weather related,Flood,105
+Panama,2013,Weather related,Storm,1612
+Panama,2013,Weather related,Wet mass movement,3
+Panama,2014,Weather related,Flood,319
+Panama,2015,Weather related,Flood,100
+Panama,2016,Weather related,Flood,85
+Panama,2016,Weather related,Storm,573
+Panama,2019,Geophysical,Earthquake,205
+Panama,2019,Weather related,Flood,32
+Paraguay,2008,Weather related,Storm,60
+Paraguay,2013,Weather related,Flood,28000
+Paraguay,2014,Weather related,Flood,83565
+Paraguay,2015,Weather related,Flood,166000
+Paraguay,2015,Weather related,Storm,5400
+Paraguay,2016,Weather related,Flood,1350
+Paraguay,2017,Weather related,Flood,4488
+Paraguay,2017,Weather related,Storm,761
+Paraguay,2018,Weather related,Flood,29737
+Paraguay,2019,Weather related,Flood,53747
+Paraguay,2019,Weather related,Wildfire,315
+Peru,2008,Weather related,Flood,45000
+Peru,2009,Weather related,Flood,45825
+Peru,2009,Weather related,Wet mass movement,150
+Peru,2010,Weather related,Flood,9000
+Peru,2010,Weather related,Wet mass movement,1000
+Peru,2011,Geophysical,Earthquake,1705
+Peru,2011,Weather related,Flood,1042
+Peru,2012,Geophysical,Earthquake,13332
+Peru,2012,Weather related,Flood,170619
+Peru,2013,Geophysical,Earthquake,1302
+Peru,2013,Weather related,Flood,16804
+Peru,2013,Weather related,Storm,5453
+Peru,2014,Geophysical,Volcanic eruption,421
+Peru,2014,Weather related,Flood,531
+Peru,2015,Weather related,Extreme temperature,1209
+Peru,2015,Weather related,Flood,4080
+Peru,2015,Weather related,Storm,1350
+Peru,2015,Weather related,Wet mass movement,1771
+Peru,2016,Geophysical,Earthquake,2182
+Peru,2016,Weather related,Flood,12151
+Peru,2016,Weather related,Wildfire,2126
+Peru,2017,Geophysical,Earthquake,30
+Peru,2017,Weather related,Flood,294985
+Peru,2018,Geophysical,Dry mass movement,106
+Peru,2018,Weather related,Extreme temperature,24
+Peru,2018,Weather related,Flood,4263
+Peru,2018,Weather related,Wet mass movement,33
+Peru,2018,Weather related,Wildfire,431
+Peru,2019,Geophysical,Dry mass movement,117
+Peru,2019,Geophysical,Earthquake,4319
+Peru,2019,Weather related,Flood,1070
+Peru,2019,Weather related,Storm,2994
+Peru,2019,Weather related,Wet mass movement,187
+Philippines,2008,Weather related,Flood,637196
+Philippines,2008,Weather related,Storm,2107314
+Philippines,2008,Weather related,Wet mass movement,12124
+Philippines,2009,Geophysical,Earthquake,10
+Philippines,2009,Geophysical,Volcanic eruption,50000
+Philippines,2009,Weather related,Flood,216070
+Philippines,2009,Weather related,Storm,1796322
+Philippines,2010,Weather related,Flood,714306
+Philippines,2010,Weather related,Storm,287685
+Philippines,2011,Geophysical,Volcanic eruption,2000
+Philippines,2011,Weather related,Flood,804816
+Philippines,2011,Weather related,Storm,1692425
+Philippines,2012,Geophysical,Earthquake,187320
+Philippines,2012,Weather related,Flood,1553080
+Philippines,2012,Weather related,Storm,2118196
+Philippines,2013,Geophysical,Earthquake,351085
+Philippines,2013,Weather related,Flood,12979
+Philippines,2013,Weather related,Storm,6657273
+Philippines,2013,Weather related,Wet mass movement,858
+Philippines,2014,Geophysical,Volcanic eruption,50000
+Philippines,2014,Weather related,Flood,8926
+Philippines,2014,Weather related,Storm,5727326
+Philippines,2015,Geophysical,Volcanic activity,567
+Philippines,2015,Weather related,Flood,3800
+Philippines,2015,Weather related,Storm,2216791
+Philippines,2016,Geophysical,Dry mass movement,120
+Philippines,2016,Weather related,Extreme temperature,66
+Philippines,2016,Weather related,Flood,545423
+Philippines,2016,Weather related,Storm,5303572
+Philippines,2016,Weather related,Wet mass movement,616
+Philippines,2016,Weather related,Wildfire,94
+Philippines,2017,Geophysical,Dry mass movement,1306
+Philippines,2017,Geophysical,Earthquake,100962
+Philippines,2017,Weather related,Flood,933375
+Philippines,2017,Weather related,Storm,154361
+Philippines,2018,Geophysical,Earthquake,151
+Philippines,2018,Geophysical,Volcanic eruption,91055
+Philippines,2018,Weather related,Flood,228595
+Philippines,2018,Weather related,Storm,295356
+Philippines,2018,Weather related,Wet mass movement,8230
+Philippines,2019,Geophysical,Earthquake,413260
+Philippines,2019,Weather related,Drought,5405
+Philippines,2019,Weather related,Extreme temperature,249
+Philippines,2019,Weather related,Flood,787327
+Philippines,2019,Weather related,Storm,2119129
+Philippines,2019,Weather related,Wet mass movement,3546
+Poland,2010,Weather related,Flood,30000
+Poland,2019,Weather related,Flood,18
+Portugal,2008,Weather related,Flood,38
+Portugal,2015,Weather related,Flood,10
+Portugal,2016,Weather related,Wildfire,1030
+Portugal,2017,Weather related,Wildfire,6791
+Portugal,2018,Weather related,Storm,61
+Portugal,2018,Weather related,Wildfire,346
+Portugal,2019,Weather related,Flood,25
+Portugal,2019,Weather related,Storm,549
+Qatar,2009,Weather related,Flood,1000
+Qatar,2016,Weather related,Flood,280
+Qatar,2017,Weather related,Flood,100
+Qatar,2018,Weather related,Flood,2046
+Qatar,2019,Weather related,Flood,260
+South Korea,2010,Geophysical,Earthquake,2850
+South Korea,2010,Weather related,Storm,5000
+South Korea,2012,Weather related,Flood,47
+South Korea,2012,Weather related,Storm,1000
+South Korea,2013,Geophysical,Earthquake,3500
+South Korea,2014,Weather related,Flood,9000
+South Korea,2015,Weather related,Storm,1000
+South Korea,2016,Geophysical,Earthquake,1328
+South Korea,2018,Weather related,Flood,15
+South Korea,2018,Weather related,Storm,103
+South Korea,2019,Weather related,Storm,27
+South Korea,2019,Weather related,Wet mass movement,4
+Moldova,2008,Weather related,Flood,200
+Romania,2008,Weather related,Flood,10520
+Romania,2014,Weather related,Flood,2235
+Romania,2015,Weather related,Flood,157
+Romania,2016,Weather related,Flood,1480
+Romania,2019,Weather related,Flood,200
+Russia,2010,Weather related,Flood,9250
+Russia,2010,Weather related,Wildfire,13700
+Russia,2011,Weather related,Flood,3500
+Russia,2012,Weather related,Flood,30649
+Russia,2012,Weather related,Wildfire,1226
+Russia,2013,Weather related,Flood,29198
+Russia,2014,Weather related,Flood,22857
+Russia,2015,Weather related,Wildfire,6600
+Russia,2016,Weather related,Flood,2204
+Russia,2016,Weather related,Storm,1400
+Russia,2016,Weather related,Wildfire,27
+Russia,2017,Weather related,Flood,4679
+Russia,2017,Weather related,Wildfire,1220
+Russia,2018,Weather related,Flood,3574
+Russia,2019,Weather related,Flood,11305
+Russia,2019,Weather related,Wildfire,340
+Rwanda,2008,Weather related,Flood,5000
+Rwanda,2010,Weather related,Wet mass movement,5920
+Rwanda,2011,Weather related,Flood,1860
+Rwanda,2012,Weather related,Flood,3225
+Rwanda,2013,Weather related,Flood,180
+Rwanda,2013,Weather related,Storm,846
+Rwanda,2015,Weather related,Flood,1789
+Rwanda,2015,Weather related,Storm,210
+Rwanda,2017,Weather related,Flood,19
+Rwanda,2017,Weather related,Storm,4964
+Rwanda,2017,Weather related,Wet mass movement,5
+Rwanda,2018,Weather related,Storm,47295
+Rwanda,2019,Weather related,Flood,6454
+Rwanda,2019,Weather related,Storm,5021
+Rwanda,2019,Weather related,Wet mass movement,56
+Saint Kitts and Nevis,2017,Weather related,Storm,33
+Saint Lucia,2016,Weather related,Storm,130
+Saint Vincent and the Grenadines,2010,Weather related,Storm,100
+Saint Vincent and the Grenadines,2013,Weather related,Storm,2325
+Saint Vincent and the Grenadines,2016,Weather related,Flood,50
+Saint Vincent and the Grenadines,2016,Weather related,Storm,288
+Saint Vincent and the Grenadines,2017,Weather related,Storm,20
+Samoa,2009,Geophysical,Earthquake,5274
+Samoa,2012,Weather related,Storm,7739
+Samoa,2015,Weather related,Storm,965
+Samoa,2016,Weather related,Storm,63
+San Marino,2017,Weather related,Storm,10582
+Sao Tome and Principe,2008,Weather related,Flood,10520
+Sao Tome and Principe,2014,Weather related,Flood,2235
+Sao Tome and Principe,2015,Weather related,Flood,157
+Sao Tome and Principe,2016,Weather related,Flood,1480
+Sao Tome and Principe,2019,Weather related,Flood,200
+Saudi Arabia,2009,Weather related,Flood,10000
+Saudi Arabia,2016,Weather related,Flood,280
+Saudi Arabia,2017,Weather related,Flood,100
+Saudi Arabia,2018,Weather related,Flood,2046
+Saudi Arabia,2019,Weather related,Flood,260
+Senegal,2009,Weather related,Flood,264000
+Senegal,2010,Weather related,Flood,7802
+Senegal,2011,Weather related,Flood,1640
+Senegal,2012,Weather related,Flood,20000
+Senegal,2013,Weather related,Flood,13300
+Senegal,2016,Weather related,Flood,12900
+Senegal,2016,Weather related,Storm,11292
+Senegal,2017,Weather related,Wet mass movement,628
+Senegal,2018,Weather related,Drought,2
+Senegal,2019,Weather related,Flood,4300
+Senegal,2019,Weather related,Storm,138
+Seychelles,2013,Weather related,Storm,1058
+Seychelles,2014,Weather related,Flood,7
+Seychelles,2016,Weather related,Storm,20
+Sierra Leone,2013,Weather related,Storm,6180
+Sierra Leone,2013,Weather related,Wildfire,2257
+Sierra Leone,2017,Weather related,Wet mass movement,11816
+Sierra Leone,2019,Weather related,Flood,5318
+Singapore,2008,Geophysical,Earthquake,16635
+Singapore,2008,Geophysical,Volcanic eruption,5000
+Singapore,2008,Weather related,Flood,183465
+Singapore,2008,Weather related,Wet mass movement,16000
+Singapore,2009,Geophysical,Earthquake,853990
+Singapore,2010,Geophysical,Earthquake,48600
+Singapore,2010,Geophysical,Volcanic eruption,360557
+Singapore,2010,Weather related,Flood,230
+Singapore,2011,Geophysical,Earthquake,95
+Singapore,2011,Geophysical,Volcanic eruption,5347
+Singapore,2011,Weather related,Flood,2000
+Singapore,2012,Geophysical,Earthquake,192
+Singapore,2012,Geophysical,Volcanic eruption,192
+Singapore,2012,Weather related,Flood,101197
+Singapore,2012,Weather related,Storm,2122
+Singapore,2012,Weather related,Wet mass movement,128
+Singapore,2013,Geophysical,Earthquake,66103
+Singapore,2013,Geophysical,Volcanic eruption,45098
+Singapore,2013,Weather related,Flood,212746
+Singapore,2013,Weather related,Storm,83360
+Singapore,2013,Weather related,Wet mass movement,115
+Singapore,2014,Geophysical,Dry mass movement,1149
+Singapore,2014,Geophysical,Earthquake,200
+Singapore,2014,Geophysical,Volcanic eruption,177493
+Singapore,2014,Weather related,Flood,665028
+Singapore,2014,Weather related,Storm,2638
+Singapore,2014,Weather related,Wet mass movement,8167
+Singapore,2014,Weather related,Wildfire,425
+Singapore,2015,Geophysical,Earthquake,17438
+Singapore,2015,Geophysical,Volcanic activity,17092
+Singapore,2015,Weather related,Flood,164914
+Singapore,2015,Weather related,Storm,2114
+Singapore,2015,Weather related,Wet mass movement,2355
+Singapore,2016,Geophysical,Dry mass movement,3338
+Singapore,2016,Geophysical,Earthquake,92657
+Singapore,2016,Geophysical,Volcanic eruption,16039
+Singapore,2016,Weather related,Flood,1123709
+Singapore,2016,Weather related,Storm,3552
+Singapore,2016,Weather related,Wet mass movement,175
+Singapore,2016,Weather related,Wildfire,2004
+Singapore,2017,Geophysical,Dry mass movement,2333
+Singapore,2017,Geophysical,Earthquake,6799
+Singapore,2017,Geophysical,Volcanic eruption,157323
+Singapore,2017,Weather related,Flood,138778
+Singapore,2017,Weather related,Storm,13975
+Singapore,2017,Weather related,Wet mass movement,24
+Singapore,2018,Geophysical,Dry mass movement,52
+Singapore,2018,Geophysical,Earthquake,464479
+Singapore,2018,Geophysical,Volcanic eruption,13159
+Singapore,2018,Weather related,Flood,49214
+Singapore,2018,Weather related,Storm,5901
+Singapore,2018,Weather related,Wet mass movement,6662
+Singapore,2018,Weather related,Wildfire,143
+Singapore,2019,Geophysical,Dry mass movement,7
+Singapore,2019,Geophysical,Earthquake,293231
+Singapore,2019,Geophysical,Volcanic eruption,283
+Singapore,2019,Weather related,Flood,123781
+Singapore,2019,Weather related,Storm,22469
+Singapore,2019,Weather related,Wet mass movement,1947
+Singapore,2019,Weather related,Wildfire,158
+Slovakia,2018,Weather related,Flood,274
+Slovenia,2018,Weather related,Storm,300
+Slovenia,2018,Weather related,Wet mass movement,36
+Solomon Islands,2010,Geophysical,Earthquake,2850
+Solomon Islands,2010,Weather related,Storm,5000
+Solomon Islands,2012,Weather related,Flood,47
+Solomon Islands,2012,Weather related,Storm,1000
+Solomon Islands,2013,Geophysical,Earthquake,3500
+Solomon Islands,2014,Weather related,Flood,9000
+Solomon Islands,2015,Weather related,Storm,1000
+Solomon Islands,2016,Geophysical,Earthquake,1328
+Solomon Islands,2018,Weather related,Flood,15
+Solomon Islands,2018,Weather related,Storm,103
+Solomon Islands,2019,Weather related,Storm,27
+Solomon Islands,2019,Weather related,Wet mass movement,4
+South Africa,2008,Weather related,Storm,3500
+South Africa,2009,Weather related,Flood,20000
+South Africa,2010,Weather related,Flood,6000
+South Africa,2011,Weather related,Flood,52172
+South Africa,2012,Weather related,Storm,2000
+South Africa,2013,Weather related,Flood,17663
+South Africa,2014,Weather related,Flood,3525
+South Africa,2015,Weather related,Wildfire,14
+South Africa,2016,Weather related,Flood,12199
+South Africa,2017,Weather related,Flood,236
+South Africa,2017,Weather related,Storm,1578
+South Africa,2017,Weather related,Wildfire,12250
+South Africa,2018,Weather related,Flood,47
+South Africa,2018,Weather related,Storm,11
+South Africa,2019,Weather related,Flood,207
+South Africa,2019,Weather related,Storm,119
+South Africa,2019,Weather related,Wildfire,112
+Spain,2011,Geophysical,Earthquake,15000
+Spain,2012,Weather related,Flood,9000
+Spain,2012,Weather related,Wildfire,13000
+Spain,2013,Weather related,Flood,500
+Spain,2013,Weather related,Wildfire,2090
+Spain,2014,Weather related,Flood,400
+Spain,2014,Weather related,Wildfire,3399
+Spain,2015,Weather related,Flood,1500
+Spain,2015,Weather related,Wildfire,2640
+Spain,2016,Weather related,Flood,250
+Spain,2016,Weather related,Wildfire,5145
+Spain,2017,Weather related,Flood,3
+Spain,2017,Weather related,Wildfire,2000
+Spain,2018,Weather related,Flood,99
+Spain,2018,Weather related,Storm,538
+Spain,2019,Weather related,Flood,5529
+Spain,2019,Weather related,Storm,100
+Spain,2019,Weather related,Wildfire,17654
+Sri Lanka,2008,Weather related,Flood,492000
+Sri Lanka,2008,Weather related,Storm,33408
+Sri Lanka,2009,Weather related,Flood,362885
+Sri Lanka,2010,Weather related,Flood,141414
+Sri Lanka,2011,Weather related,Flood,683161
+Sri Lanka,2011,Weather related,Storm,1723
+Sri Lanka,2012,Weather related,Flood,129092
+Sri Lanka,2013,Weather related,Flood,206456
+Sri Lanka,2013,Weather related,Storm,117460
+Sri Lanka,2013,Weather related,Wet mass movement,159
+Sri Lanka,2013,Weather related,Wildfire,161
+Sri Lanka,2014,Weather related,Flood,146100
+Sri Lanka,2014,Weather related,Wet mass movement,5700
+Sri Lanka,2015,Weather related,Flood,65562
+Sri Lanka,2016,Weather related,Storm,500200
+Sri Lanka,2017,Geophysical,Dry mass movement,625
+Sri Lanka,2017,Weather related,Flood,130846
+Sri Lanka,2017,Weather related,Storm,3497
+Sri Lanka,2017,Weather related,Wet mass movement,120
+Sri Lanka,2017,Weather related,Wildfire,70
+Sri Lanka,2018,Geophysical,Dry mass movement,113
+Sri Lanka,2018,Weather related,Flood,95119
+Sri Lanka,2018,Weather related,Storm,3188
+Sri Lanka,2018,Weather related,Wet mass movement,1254
+Sri Lanka,2019,Geophysical,Dry mass movement,3
+Sri Lanka,2019,Weather related,Flood,22756
+Sri Lanka,2019,Weather related,Storm,2081
+Sri Lanka,2019,Weather related,Wet mass movement,14648
+Sudan,2008,Weather related,Flood,46500
+Sudan,2009,Weather related,Flood,80000
+Sudan,2010,Weather related,Flood,20000
+Sudan,2011,Weather related,Flood,18804
+Sudan,2012,Weather related,Flood,84000
+Sudan,2013,Weather related,Flood,283646
+Sudan,2014,Weather related,Flood,187000
+Sudan,2015,Weather related,Flood,8311
+Sudan,2016,Weather related,Flood,122738
+Sudan,2017,Weather related,Flood,54080
+Sudan,2018,Weather related,Flood,120756
+Sudan,2019,Weather related,Flood,272443
+Suriname,2013,Weather related,Flood,300
+Suriname,2017,Weather related,Flood,6000
+Sweden,2014,Weather related,Wildfire,1000
+Sweden,2015,Weather related,Flood,100
+Sweden,2018,Weather related,Flood,1
+Sweden,2018,Weather related,Wildfire,125
+Sweden,2019,Weather related,Wildfire,47
+Switzerland,2013,Weather related,Flood,13
+Switzerland,2015,Weather related,Flood,360
+Switzerland,2017,Weather related,Wet mass movement,160
+Switzerland,2018,Weather related,Flood,4
+Switzerland,2018,Weather related,Wet mass movement,14
+Switzerland,2019,Weather related,Flood,10
+Syrian Arab Republic,2014,Weather related,Flood,2338
+Syrian Arab Republic,2017,Weather related,Flood,2280
+Syrian Arab Republic,2018,Weather related,Flood,22351
+Syrian Arab Republic,2018,Weather related,Storm,4333
+Syrian Arab Republic,2019,Weather related,Flood,17100
+Tajikistan,2010,Geophysical,Earthquake,1134
+Tajikistan,2010,Weather related,Flood,875
+Tajikistan,2012,Geophysical,Earthquake,6000
+Tajikistan,2012,Weather related,Flood,390
+Tajikistan,2013,Geophysical,Earthquake,655
+Tajikistan,2014,Weather related,Flood,37
+Tajikistan,2014,Weather related,Wet mass movement,425
+Tajikistan,2015,Geophysical,Earthquake,1469
+Tajikistan,2015,Weather related,Flood,10000
+Tajikistan,2016,Geophysical,Earthquake,30
+Tajikistan,2016,Weather related,Flood,2350
+Tajikistan,2017,Weather related,Wet mass movement,974
+Tajikistan,2018,Weather related,Flood,5429
+Tajikistan,2019,Weather related,Flood,4811
+Thailand,2008,Weather related,Flood,201680
+Thailand,2008,Weather related,Storm,1000
+Thailand,2009,Weather related,Flood,68000
+Thailand,2010,Weather related,Flood,1000000
+Thailand,2011,Weather related,Flood,1584000
+Thailand,2011,Weather related,Storm,60965
+Thailand,2012,Weather related,Flood,3000
+Thailand,2012,Weather related,Storm,400
+Thailand,2013,Weather related,Flood,12448
+Thailand,2013,Weather related,Storm,834
+Thailand,2014,Weather related,Flood,11972
+Thailand,2014,Weather related,Storm,11459
+Thailand,2015,Weather related,Storm,237
+Thailand,2016,Weather related,Extreme temperature,288
+Thailand,2016,Weather related,Flood,82926
+Thailand,2016,Weather related,Storm,6764
+Thailand,2016,Weather related,Wildfire,182
+Thailand,2017,Weather related,Flood,19576
+Thailand,2017,Weather related,Storm,896
+Thailand,2018,Weather related,Flood,2218
+Thailand,2018,Weather related,Storm,806
+Thailand,2018,Weather related,Wet mass movement,310
+Thailand,2019,Weather related,Flood,642
+Thailand,2019,Weather related,Storm,160
+Timor-Leste,2013,Weather related,Flood,1011
+Timor-Leste,2013,Weather related,Storm,37
+Timor-Leste,2013,Weather related,Wet mass movement,24
+Timor-Leste,2013,Weather related,Wildfire,219
+Timor-Leste,2014,Weather related,Storm,591
+Timor-Leste,2014,Weather related,Wildfire,1157
+Timor-Leste,2015,Geophysical,Earthquake,11
+Timor-Leste,2015,Geophysical,Mass movement,67
+Timor-Leste,2015,Weather related,Flood,185
+Timor-Leste,2015,Weather related,Storm,42
+Timor-Leste,2015,Weather related,Wet Mass Movement,6
+Timor-Leste,2016,Weather related,Flood,34
+Timor-Leste,2016,Weather related,Storm,78
+Togo,2008,Weather related,Flood,2000
+Togo,2010,Weather related,Flood,50000
+Togo,2013,Weather related,Flood,117
+Togo,2015,Weather related,Flood,5000
+Togo,2017,Weather related,Flood,50
+Trinidad and Tobago,2013,Weather related,Flood,29
+Trinidad and Tobago,2017,Weather related,Flood,200
+Trinidad and Tobago,2018,Geophysical,Dry mass movement,20
+Trinidad and Tobago,2018,Geophysical,Volcanic eruption,40
+Trinidad and Tobago,2018,Weather related,Flood,800
+Trinidad and Tobago,2019,Weather related,Flood,45
+Tunisia,2013,Geophysical,Earthquake,6
+Tunisia,2015,Weather related,Flood,120
+Tunisia,2018,Weather related,Flood,3348
+Tunisia,2019,Weather related,Flood,20
+Tunisia,2019,Weather related,Storm,12
+Turkey,2008,Weather related,Wildfire,300
+Turkey,2009,Weather related,Flood,20000
+Turkey,2010,Weather related,Wet mass movement,200
+Turkey,2011,Geophysical,Earthquake,252000
+Turkey,2014,Geophysical,Earthquake,478
+Turkey,2015,Weather related,Flood,1500
+Turkey,2016,Weather related,Flood,200
+Turkey,2018,Geophysical,Earthquake,7
+Turkey,2018,Weather related,Flood,500
+Turkey,2018,Weather related,Wet mass movement,78
+Turkey,2018,Weather related,Wildfire,50
+Turkey,2019,Geophysical,Earthquake,14
+Turkey,2019,Weather related,Flood,224
+Turkey,2019,Weather related,Wet mass movement,302
+Turks and Caicos Islands,2016,Weather related,Storm,50
+Turks and Caicos Islands,2017,Weather related,Storm,60
+Turkmenistan,2008,Weather related,Wildfire,300
+Turkmenistan,2009,Weather related,Flood,20000
+Turkmenistan,2010,Weather related,Wet mass movement,200
+Turkmenistan,2011,Geophysical,Earthquake,252000
+Turkmenistan,2014,Geophysical,Earthquake,478
+Turkmenistan,2015,Weather related,Flood,1500
+Turkmenistan,2016,Weather related,Flood,200
+Turkmenistan,2018,Geophysical,Earthquake,7
+Turkmenistan,2018,Weather related,Flood,500
+Turkmenistan,2018,Weather related,Wet mass movement,78
+Turkmenistan,2018,Weather related,Wildfire,50
+Turkmenistan,2019,Geophysical,Earthquake,14
+Turkmenistan,2019,Weather related,Flood,224
+Turkmenistan,2019,Weather related,Wet mass movement,302
+Uganda,2008,Weather related,Flood,15000
+Uganda,2011,Weather related,Flood,6400
+Uganda,2012,Weather related,Flood,216
+Uganda,2013,Weather related,Flood,30219
+Uganda,2014,Weather related,Flood,47681
+Uganda,2014,Weather related,Storm,2425
+Uganda,2015,Weather related,Flood,600
+Uganda,2016,Geophysical,Earthquake,1147
+Uganda,2016,Weather related,Flood,1347
+Uganda,2017,Weather related,Flood,91500
+Uganda,2017,Weather related,Storm,3500
+Uganda,2017,Weather related,Wildfire,70
+Uganda,2018,Weather related,Flood,158212
+Uganda,2018,Weather related,Storm,1446
+Uganda,2018,Weather related,Wet mass movement,4832
+Uganda,2019,Weather related,Flood,126297
+Uganda,2019,Weather related,Storm,1534
+Uganda,2019,Weather related,Wet mass movement,2452
+Ukraine,2008,Weather related,Flood,25000
+Ukraine,2013,Weather related,Flood,600
+Ukraine,2016,Weather related,Flood,126
+United Arab Emirates,2017,Weather related,Flood,845
+United Arab Emirates,2019,Weather related,Flood,100
+United Kingdom of Great Britain and Northern Ireland,2012,Weather related,Flood,300
+United Kingdom of Great Britain and Northern Ireland,2013,Weather related,Flood,20252
+United Kingdom of Great Britain and Northern Ireland,2014,Weather related,Storm,623
+United Kingdom of Great Britain and Northern Ireland,2015,Weather related,Storm,6060
+United Kingdom of Great Britain and Northern Ireland,2016,Weather related,Flood,1148
+United Kingdom of Great Britain and Northern Ireland,2016,Weather related,Storm,19
+United Kingdom of Great Britain and Northern Ireland,2017,Weather related,Flood,149
+United Kingdom of Great Britain and Northern Ireland,2017,Weather related,Storm,5993
+United Kingdom of Great Britain and Northern Ireland,2018,Weather related,Flood,23
+United Kingdom of Great Britain and Northern Ireland,2018,Weather related,Storm,25
+United Kingdom of Great Britain and Northern Ireland,2018,Weather related,Wildfire,115
+United Kingdom of Great Britain and Northern Ireland,2019,Weather related,Flood,8890
+United Kingdom of Great Britain and Northern Ireland,2019,Weather related,Wet mass movement,95
+United Kingdom of Great Britain and Northern Ireland,2019,Weather related,Wildfire,10
+Tanzania,2008,Weather related,Flood,2442
+Tanzania,2009,Weather related,Flood,10599
+Tanzania,2011,Weather related,Flood,22000
+Tanzania,2012,Weather related,Flood,10000
+Tanzania,2014,Weather related,Flood,13650
+Tanzania,2015,Weather related,Storm,3500
+Tanzania,2016,Geophysical,Earthquake,10153
+Tanzania,2016,Weather related,Flood,8789
+Tanzania,2017,Weather related,Flood,493
+Tanzania,2017,Weather related,Storm,1425
+Tanzania,2018,Weather related,Flood,26643
+Tanzania,2018,Weather related,Storm,2563
+Tanzania,2019,Geophysical,Earthquake,19
+Tanzania,2019,Weather related,Flood,9295
+Tanzania,2019,Weather related,Storm,445
+United States of America,2008,Weather related,Flood,11473
+United States of America,2008,Weather related,Storm,1958000
+United States of America,2008,Weather related,Wildfire,50300
+United States of America,2009,Weather related,Flood,900
+United States of America,2009,Weather related,Wildfire,426
+United States of America,2011,Weather related,Flood,5000
+United States of America,2011,Weather related,Storm,42925
+United States of America,2011,Weather related,Wildfire,4300
+United States of America,2012,Weather related,Flood,707
+United States of America,2012,Weather related,Storm,855894
+United States of America,2012,Weather related,Wet mass movement,8
+United States of America,2012,Weather related,Wildfire,44323
+United States of America,2013,Weather related,Flood,102058
+United States of America,2013,Weather related,Storm,14912
+United States of America,2013,Weather related,Wildfire,8719
+United States of America,2014,Geophysical,Earthquake,39
+United States of America,2014,Weather related,Flood,9810
+United States of America,2014,Weather related,Storm,3185
+United States of America,2014,Weather related,Wet mass movement,96
+United States of America,2014,Weather related,Wildfire,21191
+United States of America,2015,Weather related,Flood,4367
+United States of America,2015,Weather related,Storm,12723
+United States of America,2015,Weather related,Wildfire,44786
+United States of America,2016,Weather related,Flood,102971
+United States of America,2016,Weather related,Storm,880581
+United States of America,2016,Weather related,Wildfire,123769
+United States of America,2017,Weather related,Flood,247260
+United States of America,2017,Weather related,Storm,1053135
+United States of America,2017,Weather related,Wildfire,178948
+United States of America,2018,Geophysical,Earthquake,317
+United States of America,2018,Geophysical,Volcanic eruption,2800
+United States of America,2018,Weather related,Extreme temperature,269
+United States of America,2018,Weather related,Flood,5059
+United States of America,2018,Weather related,Storm,3553
+United States of America,2018,Weather related,Wet mass movement,2017
+United States of America,2018,Weather related,Wildfire,379206
+United States of America,2019,Weather related,Extreme temperature,872
+United States of America,2019,Weather related,Flood,16701
+United States of America,2019,Weather related,Storm,16894
+United States of America,2019,Weather related,Wet mass movement,22
+United States of America,2019,Weather related,Wildfire,421115
+Uruguay,2013,Weather related,Storm,1000
+Uruguay,2014,Weather related,Flood,4930
+Uruguay,2015,Weather related,Flood,23571
+Uruguay,2016,Weather related,Flood,12206
+Uruguay,2016,Weather related,Storm,72
+Uruguay,2017,Weather related,Flood,9077
+Uruguay,2017,Weather related,Storm,23
+Uruguay,2018,Weather related,Flood,180
+Uruguay,2018,Weather related,Storm,10
+Uruguay,2019,Weather related,Flood,114
+Uruguay,2019,Weather related,Wildfire,900
+Uzbekistan,2008,Weather related,Flood,15000
+Uzbekistan,2011,Weather related,Flood,6400
+Uzbekistan,2012,Weather related,Flood,216
+Uzbekistan,2013,Weather related,Flood,30219
+Uzbekistan,2014,Weather related,Flood,47681
+Uzbekistan,2014,Weather related,Storm,2425
+Uzbekistan,2015,Weather related,Flood,600
+Uzbekistan,2016,Geophysical,Earthquake,1147
+Uzbekistan,2016,Weather related,Flood,1347
+Uzbekistan,2017,Weather related,Flood,91500
+Uzbekistan,2017,Weather related,Storm,3500
+Uzbekistan,2017,Weather related,Wildfire,70
+Uzbekistan,2018,Weather related,Flood,158212
+Uzbekistan,2018,Weather related,Storm,1446
+Uzbekistan,2018,Weather related,Wet mass movement,4832
+Uzbekistan,2019,Weather related,Flood,126297
+Uzbekistan,2019,Weather related,Storm,1534
+Uzbekistan,2019,Weather related,Wet mass movement,2452
+Viet Nam,2008,Weather related,Flood,2840
+Viet Nam,2008,Weather related,Storm,102750
+Viet Nam,2009,Weather related,Flood,7725
+Viet Nam,2009,Weather related,Storm,179175
+Viet Nam,2010,Weather related,Flood,198644
+Viet Nam,2010,Weather related,Storm,243205
+Viet Nam,2011,Weather related,Flood,230000
+Viet Nam,2012,Weather related,Storm,15000
+Viet Nam,2013,Weather related,Flood,500
+Viet Nam,2013,Weather related,Storm,1039838
+Viet Nam,2014,Weather related,Flood,2050
+Viet Nam,2014,Weather related,Storm,65900
+Viet Nam,2015,Weather related,Flood,9468
+Viet Nam,2015,Weather related,Storm,83
+Viet Nam,2016,Weather related,Flood,23566
+Viet Nam,2016,Weather related,Storm,56971
+Viet Nam,2017,Weather related,Flood,17550
+Viet Nam,2017,Weather related,Storm,64702
+Viet Nam,2018,Weather related,Flood,4742
+Viet Nam,2018,Weather related,Storm,2087
+Viet Nam,2018,Weather related,Wet mass movement,145
+Viet Nam,2019,Weather related,Flood,16884
+Viet Nam,2019,Weather related,Storm,56124
+Viet Nam,2019,Weather related,Wet mass movement,2114
+Zambia,2008,Weather related,Flood,5796
+Zambia,2009,Weather related,Flood,54000
+Zambia,2010,Weather related,Wet mass movement,150
+Zambia,2013,Weather related,Flood,5511
+Zambia,2014,Weather related,Flood,26021
+Zambia,2015,Weather related,Storm,25
+Zambia,2017,Geophysical,Earthquake,54
+Zambia,2017,Weather related,Flood,2357
+Zambia,2017,Weather related,Storm,363
+Zambia,2018,Weather related,Flood,1
+Zambia,2018,Weather related,Storm,20
+Zambia,2019,Weather related,Flood,53
+Zimbabwe,2013,Weather related,Flood,43809
+Zimbabwe,2014,Weather related,Flood,20098
+Zimbabwe,2014,Weather related,Storm,2392
+Zimbabwe,2014,Weather related,Wet mass movement,4
+Zimbabwe,2014,Weather related,Wildfire,16
+Zimbabwe,2015,Weather related,Storm,800
+Zimbabwe,2016,Weather related,Flood,400
+Zimbabwe,2017,Weather related,Flood,8485
+Zimbabwe,2017,Weather related,Storm,1777
+Zimbabwe,2017,Weather related,Wet mass movement,8
+Zimbabwe,2018,Weather related,Storm,1064
+Zimbabwe,2019,Weather related,Flood,200
+Zimbabwe,2019,Weather related,Storm,1200
+Yemen,2009,Weather related,Flood,1000
+Yemen,2016,Weather related,Flood,280
+Yemen,2017,Weather related,Flood,100
+Yemen,2018,Weather related,Flood,2046
+Yemen,2019,Weather related,Flood,260

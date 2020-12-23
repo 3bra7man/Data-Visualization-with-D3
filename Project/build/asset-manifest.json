@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f2b1a93f.chunk.css",
+    "main.js": "/static/js/main.bc2c82e6.chunk.js",
+    "main.js.map": "/static/js/main.bc2c82e6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2ef374c9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2ef374c9.js.map",
+    "static/js/2.690f3818.chunk.js": "/static/js/2.690f3818.chunk.js",
+    "static/js/2.690f3818.chunk.js.map": "/static/js/2.690f3818.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f2b1a93f.chunk.css.map": "/static/css/main.f2b1a93f.chunk.css.map",
+    "static/js/2.690f3818.chunk.js.LICENSE.txt": "/static/js/2.690f3818.chunk.js.LICENSE.txt",
+    "static/media/data_displacement_category.68e32f18.csv": "/static/media/data_displacement_category.68e32f18.csv",
+    "static/media/data_displacement_compare.6efee98a.csv": "/static/media/data_displacement_compare.6efee98a.csv",
+    "static/media/data_gdp.ebea6884.csv": "/static/media/data_gdp.ebea6884.csv",
+    "static/media/data_refugee.037bf479.csv": "/static/media/data_refugee.037bf479.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ef374c9.js",
+    "static/js/2.690f3818.chunk.js",
+    "static/css/main.f2b1a93f.chunk.css",
+    "static/js/main.bc2c82e6.chunk.js"
+  ]
+}
